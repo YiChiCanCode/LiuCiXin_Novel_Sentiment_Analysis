@@ -1,0 +1,266 @@
+Curse 5.0
+
+
+
+
+
+The Curse 1.0 was born on the December 8, 2009.
+
+It was the second year of the global financial crisis and common wisdom on the street still held that things would soon turn around. It never occurred to most that the real crisis had only just begun. Everything seemed to be wrapped in an air of anxiety and everywhere people were looking for any opportunity to let off steam. Perhaps it was these circumstances that gave birth to the Curse 1.0.
+
+The Curse's creator was a young woman, somewhere between 18 and 28, and that was pretty much all IT-Archaeologists learned about her. The cursed was a young man, 20-years-old. Unlike the creator, there was little about him that remained undocumented. His name was Sa Bi, a name that could hardly avoid raising unfortunate associations with “idiot” in Chinese, and when it happened he was a senior at Taiyuan Polytechnic. What happened between the two was in no way remarkable, no different from what happened between boys and girls everywhere, every single day. There were thousands of versions of the supposed events and perhaps the real one was in there among them, but no one except those two themselves knew exactly which particular version transpired between them. In any case, when the drama had run its course, the girl hated the boy with a burning passion and so she coded the Curse 1.0.
+
+The girl was an expert coder, although it isn’t known where and how she learned her craft. Despite the ever-growing abundance of IT specialists at the time, the number of programmers actually proficient in deep-level coding had not increased. There were just too many easy and convenient tools out there. With their help, there was no need to code close to the hardware. Laboriously writing line by meticulous line of code seemed superfluous when merely running the right tool could produce the desired results. This was even true for viruses like the one the girl was about to write. An endless variety of hacker tools allowed coders to produce viruses by quickly combining a few pre-coded modules or, even simpler still, by using a single module and only slightly modifying it. The last virus to become a pandemic in pre-Curse China, the so-called Panda Burning Incense –or Fujacks Virus – was created in just this way.
+
+This girl, however, chose to start from square one, without the use of any tools whatsoever. She coded it line upon line, like a peasant weaving cloth from a hand loom. One could just imagine her, crouched in front of her monitor, hammering away at the keys, grinding her teeth. She must have been the spitting image of Heinrich Heine's description of The Silesian Weavers: “Germany, your shroud's on our loom; and in it we weave the threefold doom...We weave; we weave.”
+
+No computer virus in history spread as quickly as the Curse 1.0. There were two reasons for its success: First, the Curse did not actually damage the infected system. In fact, most viruses had no intention of causing direct harm. What damage they did was usually the result of poorly executed propagation methods and programming. The Curse, for its part, was as good as perfect when it came to avoiding propagation-related side-effects. Its behavior was remarkably restrained as well: In most infected systems it never manifested at all; only if specific system parameters compounded in a certain way – probably in about one out of ten infected systems – did it enact, and even then it only ever showed up once. What it did was simple: It displayed a pop-up message reading:Die and go to hell, Sa Bi!!!!!!!!
+
+
+
+If one clicked the pop-up, the virus would display further information about Sa Bi, informing the user that the accursed was a student at Taiyuan Polytechnic, in Taiyuan, Shanxi Province, China, enrolled in Department XXX , majoring in XXX, in class XXX, residing in dorm XXX, room XXX. If the pop-up was not clicked, the message would disappear after three seconds, never to reappear on that computer. The virus went so far as to remember the hardware information of systems it had displayed the pop-up on. Furthermore, on those machines it would then remain forever dormant, even if the operating system was reinstalled.
+
+The second reason for the success of the Curse 1.0 was its ability to mimic system processes. This was by no means the girl's invention, but she had expertly and truly mastered its use. System mimicry is achieved by making large parts of a virus' code identical to the code of the operating system, thereby ensuring that its behavior is similar to that of processes run by the operating system. When anti-virus software removes such a virus, it very likely will cause significant damage to the operating system as well, making extreme caution the only real option when dealing with this kind of virus. Both Rising AntiVirus and Norton targeted the Curse 1.0, but dealing with it turned out to be much more troublesome than they had expected. In fact, things ended up looking even worse than when Norton AntiVirus mistakenly deleted system files of the Chinese language version of Windows XP in 2007. This, together with the fact that the Curse 1.0 caused no real harm and that it drained only a tiny, completely unnoticeable amount of system resources, lead all manufacturers to eventually remove the Curse 1.0 from their virus definition databases.
+
+
+
+On the very day that the Curse was born, science fiction author Liu Cixin was on business in Taiyuan, the capital of the northern Shanxi province, for the 264th time. Even though it was his least favorite city by a margin, Cixin always went shopping in the old, ever-bustling market street when he was in town. From a small corner store, he bought a bottle of lighter fluid for his positively ancient Zippo lighter. It was one of the few items that even today could not just be bought off of the Taobao.com Marketplace or eBay.
+
+Two days ago, snow had fallen on the city. Like always, it had compacted to ice, covering the streets. And so, as he made his way to the train station, Cixin had slipped and fallen, landing painfully on his behind. Preoccupied with his hurting backside, he had totally forgotten that he had taken the lighter fluid out of his traveling bag and put it into his pocket. It had not gone well when security had checked him. They had forced him to surrender the lighter and on top of that fined him 200 yuan.
+
+Now, he liked Taiyuan even less.
+
+
+
+The Curse 1.0 lived on. Five years and then 10 years passed and still its quiet proliferation continued across the web as it multiplied and prospered.
+
+By then, the financial crisis had finally ended and the boom times had returned. In the wake of peak oil, the use of coal had increased all across the world and this black gold had left Shanxi rolling in revenue. It had made the province the Arabia of Asia. Its capital, Taiyuan, had naturally become a new Dubai. It was a city shaped by its coal tycoons. Once poverty-stricken, it had always bourn grand ambition, even in the bad days at the beginning of the century. Back then, wonderfully luxurious music halls and bathhouses had been erected on streets overflowing with the unemployed. Now, having become genuinely newly rich, the entire city lived in luxury, laughing all the way to the bank. The city's immense buildings now made Shanghai pale in comparison and its massive main street, one of the broadest in China, had become a deep canyon; so deep, in fact, that it rarely allowed even a glimpse of the Sun. Rich and poor, full of dreams and desires, crowded into the city. And the city would swallow them in the vortex of its bustling, noisy maelstrom, churning 24/7 each and every day of the year. Almost instantly they would forget themselves and why they had come.
+
+
+
+That day, Liu Cixin again came to Taiyuan. It was the 397th time, and again he went to buy lighter fluid. On his way, he noticed an elegant and handsome young man on the street, a particularly conspicuous strand of white gleaming in his long hair. Cixin, of course, immediately recognized his fellow author, Pan Haitian. Haitian had started out writing science fiction, had then turned his attention to the genre fantasy, only to return to science fiction. Drawn in by Taiyuan's boom, he had recently abandoned his Shanghai home and moved there. Haitian and Cixin stood at opposite ends of the science fiction spectrum – the former to the soft end, the latter on the hard edge. Nonetheless, they were now very happy to have run in to each other and they decided to have lunch together.
+
+They opted for one of the regional specialties, tounao. Enjoying the nutritious lamb soup and a fair helping of spirits that traditionally accompanied it, they got to talking shop – writing. It did not take long for the more than mildly intoxicated Cixin to exuberantly extol his next grand project: He was planning to write a 10-volume, three million character science fiction epic describing 200 civilizations who would suffer 2,000 cycles of destruction in a universe repeatedly reformatted by vacuum decay events and ending with the entire known universe being flushed down a super massive black hole. The idea and his enthusiasm were infectious and so Haitian quickly suggested that the two of them should collaborate. Using the same epic framework, Cixin would write a version that embodied the hardest of hard science fiction. This edition would be aimed at the male demographic. Haitian, on the other hand, would get to work on a version that was the softest of soft fantasy literature. It would be aimed at the female reader. The idea clicked and the two writers threw themselves at the project without hesitation or reserve.
+
+
+
+It was the 10th birthday of the Curse 1.0 and its doomsday was night. After Vista, Microsoft had found it increasingly difficult to justify the upgrade treadmill of its operating system, indirectly extending the longevity of the Curse 1.0. But operating systems are like the wives of the newly rich: Eventual upgrades are inevitable. So, with every passing year, the Curse 1.0 found its code ever less compatible with the computers it encountered. Soon, it sunk to the bottom of the vast ocean that is the web, doomed to die and disappear. Just as its fate seemed sealed, a new academic discipline was born: IT-Archaeology. With less than half-a-century of history behind it, it would be easy to say that the web had no ancient things to study, but the idea, buoyed by the up-swell of nostalgia, found many firm friends. The main focus of IT-Archaeology was uncovering forgotten life in the nooks and crannies of the web. They looked for web pages that had not been clicked in 10 years, BBS still registerable but un-patronized for two decades and similar buried treasures. Amongst these virtual artifacts, the viruses of “remote antiquity” were the most sought-after; finding a virus still alive after roaming the wilds of the web for more than a decade was no less exciting than finding a dinosaur in a mountain lake.
+
+This was how the Curse 1.0 was rediscovered. Its finder upgraded the entire code of the virus, making it compatible with modern operating system and so guaranteed its survival.
+
+It had become the Curse 2.0. The original creator of the Curse 1.0 now became known as “Curse Progenitor” and the IT-Archaeologist who updated the code was tagged as “Curse Upgrader”.
+
+
+
+The moment the Curse 2.0 appeared on the web found Cixin and Haitian standing around a trash can by the Taiyuan Train Station. They were squabbling over a half a pack of instant noodles that they had just liberated from the can. The last five years had been a valley of trials and tribulations for the two. Each had devoted himself to his part of their three million character, 10-volume science fiction and fantasy epic. They had titled their works Three Thousand Bodies and The Infinite Odyssey, respectively. Both totally and fully believed in the project, but as yet had been unable to find a publisher. So they had sold off everything, including their homes, and drawn an advance on their pensions to self-publish the works. In the end, Three Thousand Bodies sold 15 copies and The Infinite Odyssey 27 copies. After all their works had found a grand total of 42 readers, and every science fiction fan knew that that was a lucky number. After hosting a grand – and of course self-financed – book signing, they had begun their life on the streets.
+
+Luckily, there were few places that were more inviting to the homeless than Taiyuan. The trash cans in the extravagant and luxurious metropolis offered an abundant supply of food. Recently a few abandoned On-the-Go-Pills had even made their appearance in Taiyuan's trash. Finding a place to stay was not much of a problem either. Another way Taiyuan had emulated Dubai was in its installation of air-conditioned bus-stops. Also, if they ever got tired of life on the streets, they could always stay in a relief station for a few days. There they would not only receive food and shelter but other benefits as well. Taiyuan's long-thriving sex industry had responded to the government's appeals and established Sunday as a sex relief day for disadvantaged groups. The relief stations were one of the areas where volunteers from the red-light districts provided their services. In the city's Social Happiness Indicator Survey, homeless beggars ranked first and so the two authors could only regret not having devoted themselves to this lifestyle even sooner.
+
+The time they relished most of all, however, was their weekly invitation to dinner by the editorial department of the Science Fiction King, usually at a high-end restaurant. Taiyuan's Science Fiction King was the quintessential sci-fi magazine, and was fully cognizant that the soul of this form of literature was the sense of wonder and alienation it engendered. Nowadays, high-tech fantasies had lost their ability to evoke these feelings. Technological marvels had become entirely prosaic events of everyday life. Low-tech fantasies, on the other hand, had become perfect vehicles for wonder and alienation. This led them to develop a retro-future style known as Counter-Wave Science Fiction. It enjoyed great success, heralding a second golden age of science fiction.
+
+Fully embracing the spirit of Counter-Wave Science Fiction, the editorial department of the Science Fiction King absolutely refused to make use of the internet or even computers. They only accepted handwritten documents and used movable-type printing presses to publish their magazine. They had gone so far as to build a luxurious stable next to their editorial offices and to acquire several dozen Mongolian horses, all easily in the same price range as a BMW. The magazine's employees used no other form of transportation, riding their absolutely off-line horses through the city. The inhabitants of Taiyuan had learned that the clip-clop of a horse's hooves was a sure signal that someone from SFK was passing by.
+
+The editorial departments frequent dinners with Cixin and Haitian were not only in acknowledgement of the science fiction stories they had written in the past; the invitations came because, even though the science fiction they were writing was now no longer really science fiction at all, the two of them lived and embodied the ideals of Counter-Wave Science Fiction. They were, after all, completely off-line, living a very low-tech life indeed.
+
+Neither the SFK team, nor Cixin or Haitian, could have ever guessed that this mutual lifestyle would come to determine their fate.
+
+
+
+The Curse 2.0 had spread for seven years. Then one day a woman, who would later be known as the “Curse Weaponizer”, found the virus. After meticulously studying the code of the Curse 2.0, she again upgraded it. The Curse Weaponizer keenly felt the 17-year-old hate and resentment the Curse Progenitor had poured into her creation. The Weaponizer, too, had felt that most painful betrayal and she, too, had found herself consumed by a burning hate and an endless litany of unspoken curses. But the two women were not entirely alike: The Weaponizer thought that the other girl 17 years ago had been rather pathetic and silly: Just what had she really achieved? Had she harmed even a single hair on Sa Bi's head? Her curse could have just as well been the act of some peasant angrily sticking needles into a voodoo doll. The only thing she had achieved was to deepen her own depression. Now, the Weaponizer thought, let your elder sister help you. (This was a rather silly way for the Weaponizer to put it; the Curse Progenitor was almost certainly still alive and much older than her). But in essence, it was effective.
+
+
+
+Seventeen years had passed to the day since the Curse was born and a new era, unlike anything before it, had arrived. It was the dawn of a world completely caught in the web. Seventeen years ago, only computers had been online. Now, the web had become something akin to an immense Christmas tree, with almost every imaginable object another blinking light, hanging from the web's innumerable branches. In the home, for example, every single electric appliance was connected and controlled via the web. Even nail clippers and bottle openers were no exception. The former could analyze the cut nail matter and recommend a calcium deficiency via text or email. The latter could determine if the spirits in the bottle were the genuine article and send a notification if the bottle had won a sweepstakes. The bottle openers were even able force breaks in drinking if its user had become excessively intoxicated.
+
+It all gave the Curse the opportunity to assume direct control of hardware.
+
+
+
+The Curse Weaponizer added a new function to the Curse 2.0: If Sa Bi is riding a taxi, kill him in a car crash!
+
+In fact, this was a rather simple operation for the AI-programmers of this age. These days, cars were already completely autonomous, piloted solely through the web. When a passenger swiped his credit card as he hired a taxi, the new Curse could identify him via the information on the card. Once Sa Bi had been identified as the patron of a taxi, the ways in which he could be killed were virtually limitless. The simplest and most direct was to simply crash him into a building or to send his taxi of a bridge. After having given it some thought, the Curse Weaponizer changed her mind, deciding against a simple car crash. She instead developed a far more romantic method of killing, worthy of her younger sister of 17 years ago (like everyone else, the Curse Weaponizer was in fact wholly unaware what Sa Bi had done to the Progenitor, and she may well have been fundamentally wrong about the man).
+
+Once the fully upgraded Curse learned that its target had boarded the vehicle, it would completely ignore the requested destination. Instead the taxi would set off on a crazy ride up north, right into a stretch of land that in recent years had become a desert. The car would stop in this wasteland, cutting off all communication systems (by then the Curse would have already taken up residence in the car's computer and no longer needed a connection to the web). This ensured that the taxi would become almost impossible to find. If someone should approach by pure chance, the taxi would just hide itself in another corner of the desert. All the while, the car's doors would remain firmly shut. Sa Bi would be doomed: In winter, he would freeze to death; in summer, he would die of heat exposure. And in any other season, he would die of dehydration and hunger.
+
+And so the Curse 3.0 was born, and it was a real curse.
+
+
+
+The Curse Weaponizer was an AI-artist and a member of a new generation on its way to the post-human. They made an art out of controlling the web, not for practical purposes, but to fulfill their sense aesthetics. Of course, aesthetics had become a markedly different concept from what they had been almost two decades ago. These artists might, for instance, make all the taxis of the city honk their horns at precisely timed moments to produce a kind of melody or they might let the brightly lit windows of large restaurants form a picture. The options were limitless.
+
+The Curse 3.0 took its place amongst these works; it had, regardless of its very real world implications, become an outlandish piece of AI-art. On the occasion of the 2026 Shanghai Biennale of Modern Art, it received high critical praise, even though it was declared illegal due to its potential to cause bodily harm. This ruling did not stop it from spreading across the web however and soon a multitude of AI-artists began to expand and modify this piece of now collective art. The Curse quickly evolved, receiving an ever-expanding portfolio of functions:
+
+
+
+> If Sa Bi is at home, choke the life out of him with gas fumes! This was comparatively simple, as every family's kitchen was controlled via the web. This connectivity allowed the heads of a household to remotely prepare meals, even from outside the house. This of course included the option of turning on the gas. The Curse 3.0 could and would obviously deactivate the kitchen's gas alarm as it went to work.
+
+
+
+> If Sa Bi is at home, kill him with fire! Also, very simple; there were many things in houses, including the gas, that could be set alight. Hair mousse, for example. It, like all things, was controlled through the web (this allowed hairstylists to remotely do one's hair at home). The fire alarm and fire extinguishers, of course, could also be disabled.
+
+
+
+> If Sa Bi is taking a bath, kill him with boiling water! Much like the above and extremely simple.
+
+
+
+> If Sa Bi is sick in the hospital, kill him with a toxic prescription! This one was slightly more complicated. Getting the target to receive a specific prescription was easy enough as the pharmacies of modern hospitals dispensed all their prescriptions autonomously and their systems were of course all connected to the web. The crux of the issue was the packaging of the medication. Sa Bi, despite his unfortunate name, was no idiot and he would have to take the medication of his own volition. To achieve this end, the Curse 3.0 had to track the medicine back to the factory where it was produced and packaged and then follow it down the sales-chain. Ensuring that the box of deadly medicine was sold to the target was somewhat complicated, but quite achievable. And in the eyes of an AI-artist, the more complicated it was, the more enjoyable the finished work would be.
+
+
+
+> If Sa Bi is in the air, kill him in the plane! This one was far from simple and significantly more complicated than taking control of a taxi. The problem was that the Curse 3.0 was not to kill others. It was almost certain that Sa Bi would not be traveling on a private plane and so crashing the plane was out of the question. The solution was the following plan: First, suddenly decompress the cabin in which Sa Bi was sitting (by opening a cabin door or by some other method). Then, when all passengers put on their oxygen masks, prevent Sa Bi's mask from providing oxygen.
+
+
+
+> If Sa Bi is eating, choke him to death! While this may sound absurd, it was quite easily achieved. The super-accelerated modern life had led to super-accelerated fast food. This food, known as On-the-Go-Pills, looked, as the name suggested, like small pills. The On-the-Go-Pills were incredibly dense, heavy as a bullet in the hand. Once ingested, they expanded in the belly, much like hardtack used to work. The key for the Curse was to tamper with the manufacturing process, producing a super-rapidly expanding On-the-Go-Pill and then controlling the sales process to ensure that Sa Bi was the one who bought it. Then, when he popped the pill at some time during his work day and washed it down with some water, it would basically explode in his throat.
+
+
+
+Driven by the boundless creativity of the AI-artists, the list went on and on
+
+
+
+But the Curse 3.0 never found its target and never killed anyone. Back in the days of the Curse 1.0, Sa Bi had been seriously harassed and hounded by reporters. It left him with no other option than to change his name. The cursed even changed his family name. There were few people named Sa to begin with, and Sa Bis – due to the name's unfortunate connotations – were rarer still. In short, there was no other Sa Bi in Taiyuan who might have suffered the curse in place of its original target.
+
+Furthermore, the data stored in the virus had not been changed in 17 years. As far as the Curse was concerned, Sa Bi was still enrolled at the university and living in a dorm. This made finding the real Sa Bi almost impossible. One version of the Curse was outfitted with a function to track its target by infiltrating the records of the Public Security Department, but the virus failed in this endeavor.
+
+In the following four years, the Curse 3.0 remained nothing but a piece of AI-art.
+
+Then, it fell into the hands of the Curse Wildcarders: Cixin and Haitian.
+
+
+
+Wildcards were an ancient concept, originating from the time of our mentors (this was what the age of the ancient operating systems, the DOS, was now called). The most commonly used wildcards were “*” and “?”. These two characters could stand in for other characters in a string of characters. “?” referred to a single character, while “*” referred to any number of characters and was the most frequently used wildcard. For instance, “Liu *” referred to every person with the family name “Liu”; “Shanxi*” referred to every string of characters starting with “Shanxi”. A single “*” referred to any and all possible combinations of characters.
+
+Because of this, the “del *.*” was a particularly nasty little command from the time of our mentors (“del” being short for “delete” and all file names in DOS being composed of a name and an extension separated by a “dot”). As operating systems evolved, the wildcards continued to exist, but due to the convenience of graphical user interfaces, later generations almost never resorted to command line inputs. Normal users gradually forgot about wildcards altogether. Even so, they could still be used in software and that included the software running the Curse 3.0.
+
+
+
+It was the Mid-Autumn Festival, one of China's most important public holidays. The Moon hung low over the glittering lights of Taiyuan like a vaguely moldy wheel of cheese, shining down on Cixin and Haitian who were sitting on a bench in May Day Square. They were just laying out their trash-loot from that afternoon: They had found five half-full (or empty) bottles of spirits, two opened bags of Pingyao Beef slices, an almost full bag of Jinci Donkey Meat and three On-the-Go-Pills. Night had recently fallen and the two were ready to celebrate.
+
+Cixin had also retrieved a broken notebook computer from one of the trash cans, professing that he would be able to repair it if his entire lifetime of working with computers was not to be for naught. He was squatting at the side of the bench, intently fiddling with the machine. All the while, Haitian was still not finished reminiscing about the sexual assistance he had received at the Relief Station that afternoon. As he worked, Cixin turned to Haitian and enthusiastically encouraged him to eat all three of the On-the-Go-Pills. His plan was simple; he wanted more of the actual meat and booze. Haitian would not be fooled, however, and refused them altogether.
+
+The computer was soon back in working order, its screen emitting a faint blue glow as it started up. The moment Haitian saw that, to his considerable surprise, the notebook had a functioning wireless internet connection, he snatched the computer from Cixin's hands. He quickly opened the QQ chat client, but his User-Id had long since expired. He clicked on to the Odyssey of China Fantasy web-page, SkyCity, Douban, the Shuimu Tsinghua BBS, but over and over again he found nothing; the links had all long-since disappeared. Finally, he put the computer down.
+
+“Oh…” He heaved a heavy sigh. “‘Long ago a man rode off on a yellow crane,’” he quoted the almost 13-centuries-old Chinese poetry.
+
+Cixin, who had been combining bottles of spirits, looked at the screen and continued the poem. “‘Once the yellow crane left, it never returned...’”
+
+He took back the notebook and began to study its contents. He found a large number of hacker tools and virus samples installed on it. Most probably he had just repaired a hacker's computer. Maybe the AI-police had been in hot pursuit and the hacker had quickly ditched it in the trash can. Imaging the possibilities, he opened a file on the desktop. It was an already decompiled C-program.
+
+Cixin recognized it: He was looking at the Curse 3.0. Casually perusing the code, he recalled his years as an e-poet. Driven more by alcohol than reason, he began scanning the targeting section of the code,
+
+At his side, Haitian was yammering on about the incredible science fiction of those long gone years and before long Cixin, too, was caught up in nostalgia. Pushing the notebook away, he joined Haitian in reminiscing.
+
+He remembered those years and his stories written from an omniscient perspective, so full of virility. His epics of destruction had elicited such a strong response from men, letting their hearts overflow with ardent militaristic and fanatical fervor. But now, only 15 books…he had sold only 15 books! Fuck it! He took another large gulp. He began by channeling his hate toward the male readers and then on to all men.
+
+And has he did he stared right at the target parameters of the Curse 3.0. “Modhern men are allll bashtardhs,” he slurred as he changed the target name from “Sa Bi” to “*”. Then, he deftly altered his occupation and address from “enrolled in Department XXX”, “majoring in XXX”, “in class XXX”, “residing in dorm XXX”, “room XXX” to “*”, “*”, “*”, “*”, “*”. He only left the gender parameter keyed to “male”.
+
+Haitian, too, heaved a sniveling sigh, thinking of his beginnings so far away; his colorful, gorgeous creations, like poems, like dreams. Once they had enchanted many girls and he had been their idol. But now, those teenage girls, daring to pass him without so much as a glance, it was just too much to bear! Tossing away an empty bottle, he mumbled, “If men are bhashtarts, shen wat dose sthat make wimmen?” Having spoken his part, he changed the targeting parameter for sex from “male” to “female”.
+
+Cixin would not have it; women had done nothing to him. After all, his little short stories had never sought to attract a female audience. So he changed the sex parameter back to “male”, just to have Haitian change it back to “female”. The two began to argue over how to punish their ungrateful readers, vacillating between the idea of turning Taiyuan into a city of widows or of bachelors.
+
+In the end, Cixin began wildly swinging a bottle and a passing policeman intervened, separating the two fighting bums. Having cooled off, both scratched their heads and soon came to an equitable compromise: They changed the sex parameter to “*”, completing the wildcarding of the Curse 3.0.
+
+Perhaps it was because of the interference or because they were dead drunk, but they left the “Taiyuan City”, “Shanxi Province, China” parameters unaltered.
+
+The Curse 4.0 had been born.
+
+And Taiyuan had become cursed.
+
+
+
+No sooner had the Curse 4.0 been completed than the realization of such a grand scale mission entrusted to it weighed heavily. Due to the extreme ambition of the new work at hand, the Curse 4.0 did not immediately begin with its execution. Instead, it lay low, giving itself enough time to sufficiently propagate across the internet. Once it had achieved the necessary degree of penetration and interconnectivity, it ever so slowly, step by careful step, readied its master plan: It would begin the operation with targets susceptible to soft control and then shift to hardware control, escalating the coming calamity from there.
+
+Ten hours after the first rays of sunlight touched the city, the Curse 4.0 commenced its operation.
+
+The soft target operation was primarily directed against targets with sensitive, neurotic or volatile dispositions; in particular, the Curse 4.0 selected depressed and bipolar individuals for this stage of its plan. In an age of epidemic mental illness and omnipresent psychological counseling, finding such people was singularly simple. For this first batch of its operation, the Curse 4.0 selected 30,000 individuals who had just returned from a hospital examination. These targets were notified that they had developed a liver, gastric, lung, cerebral, or colorectal cancer, a lymphoma, leukemia or, most often, esophageal cancer (it was the cancer with the highest rate of incidence in the area). Another 20,000 who had just had a blood test were told that they were HIV positive. These false notifications were not achieved by a simple forgery of diagnostic results. Instead, the Curse 4.0 took direct control of ultrasounds, CTs, MRIs, blood labs, and other medical equipment to produce truly “authenticated” diagnostic results. Even if the affected chose to get a second opinion from a different hospital, the results would remain the same.
+
+Of the 50,000 so tormented, the overwhelming majority chose to begin treatment, but more than 400 with pre-existing suicidal tendencies immediately saw death as the path to escape from these new troubles. Soon afterwards, the now slightly less than 50,000 sensitive, neurotic, volatile, depressed, and bipolar men and women each received a phone call from their spouse or lover. The men all heard their woman say, “Look at yourself, you stupid dumb-fuck. Are you even a man? I am now seeing [*] and we are very happy together. You can just crawl into some corner and die.” The women heard their men say, “You're really looking your age, and to be honest, you were fugly from the get-go. I have no idea what I ever saw in you. Well, I am with [*] now and we are very happy together. You can just crawl into some corner and die.”
+
+For the most part, the Curse 4.0 contrived that the target had been left for someone he or she truly despised. Of the 50,000 affected, almost all immediately attempted to call their partner to clear the air of what had to be a simple misunderstanding or mistake, but about one percent opted to instead kill their partner or themselves; some did both.
+
+There were still other parts to the soft target operation: For instance, it provoked bloody fights between gangs that were already at each other’s throats. It also targeted criminals imprisoned for life or with long prison sentences, changing their sentences to the death penalty and immediately executing them. The list went on and on. Overall, however, it appeared as if the soft target operation was not very effective. All in all, it only managed to eliminate only a few thousand targets. However, the Curse 4.0 had the idea of it, well aware that big things needed to be approached step by careful step and eschewing no evil, no matter how small. It would leave no means of murder untried.
+
+In its soft target operation, the Curse 4.0 managed to eliminate some of its original creators. In the years after the creation of the Curse 1.0, the Curse Progenitor had been very mistrustful of men. In the last two decades she had been careful to always use the most sophisticated means available to monitor her husband. She had in fact, for most intentions and purposes, become an expert surveillance technician. But when she suddenly received that call from her ever-faithful husband, she suffered a heart attack. Once in the hospital, she received drugs that further aggravated her myocardial infarction. She died, a victim of her own curse.
+
+The Curse Weaponizer, too, died in this phase of the operation. She received an HIV positive test result. At first she had no intention whatsoever of killing herself, but she overdosed on pills meant to calm her nerves. In her delirium she saw her window as the gate to a wondrous garden. The Curse Weaponizer fell to her death from the 15th floor.
+
+
+
+Five days later, the hardware operation began. The preceding soft target operation had thrown the city into a state of anxiety. The sudden spike in suicides and murders had left their mark on Taiyuan's inhabitants. The Curse 4.0, however, was still on track, successfully avoiding government detection as it had planned. The first steps of the hardware operation could thus proceed under a shroud of secrecy.
+
+First, the number of patients receiving incorrect medicine increased sharply. The packaging of these manipulated medicines appeared to be perfectly ordinary, but for most patients even a single dose proved fatal. Simultaneously, the incidence of death by chocking also skyrocketed. The cause was On-the-Go-Pills that had been compacted far beyond their usual compression ratios. When customers felt the weight of these pills at the dispensaries, they mistakenly believed that they were getting a great value for their money.
+
+The first large scale elimination operation targeted the city's water infrastructure. Even in a city completely controlled by AIs, it proved impossible to simply add cyanide or mustard gas into the water supplied to homes. So instead, the Curse 4.0 decided to introduce two genetically modified bacteria into the water supply. While absolutely harmless individually, when combined they were able to produce a lethal poison. The bacterial cultures never met in the city's water supply. Instead the Curse 4.0 first added only one; then it waited for that culture to clear out of the water system, and only then did it introduce the second bacterial culture. The actual mixing of the two types of bacteria happened in the human body. Meeting in the stomach or bloodstream of a target, they would produce a potentially lethal toxin. Even if this poison did not prove to be fatal, the target would be taken to a hospital where he or she would receive medication that further reacted with the bacteria, ensuring the target's demise.
+
+By now, the Provincial and National Public Security Departments had discovered the source of the unfolding catastrophe and had begun developing specialized kill-tools to deal with the Curse 4.0. In response, the Curse 4.0 accelerated and escalated its operations. The virus' hidden undercurrent became a towering wave, crashing down on the city and drowning it in a waking nightmare.
+
+
+
+That morning, during rush hour, a series of powerful yet muffled explosions emanated from below the city. It was the sound of subway trains crashing. Taiyuan had only rather recently built its subway network, having planned and constructed it just as the city's boom began. Because of this, the entire system was highly advanced, using maglev trains in vacuum tunnels. This allowed its subway trains to travel at absolutely astonishing speeds. Colloquially it had become known as the Prompt Portal and it was said that everything that entered would exit at its destination almost instantaneously. The trains’ unbelievable speed meant unfathomably violent collisions. In an instant, smoke-belching bulges were explosively raised from the ground. Seen from above, it almost appeared as if long lines of black pustules suddenly erupted across the face of the city.
+
+Simultaneously, a significant part of the city's cars came under the control of the Curse 4.0. It was these virus-enslaved vehicles that became the most powerful weapon of the Curse 4.0. All at once, millions of cars began careening and colliding in all directions, like particles in Brownian motion. But the crashing of the cars was by no means a disorganized chaos; entirely to the contrary, it strictly adhered to a carefully calculated pattern and sequence. Every car first maximized the pedestrian casualties it could inflict on its crazed run. The gaps between individual vehicles were precisely coordinated, making escape almost impossible for the citizens walking on the city's streets. In open spaces and public squares, the cars even assumed circular formations to herd Taiyuan's inhabitants to their doom. The largest of these encirclements formed on the May Day Plaza. Several thousand cars surrounded the plaza, only to crash toward its center in unison, eliminating 10,000 targets in one fell swoop.
+
+Outside, the city was soon almost entirely cleared of targets; they had either been eliminated or had taken shelter in some building or another. As soon as this had been accomplished, the cars began crashing into the nearest structures, killing all passengers the vehicles were carrying. These collisions, too, were precisely timed and organized, targeting high-occupancy buildings. The cars assembled and concentrated their attack. One vehicle followed the next as they struck a building, piling layer upon layer of shattered car remains and maximizing the destruction. At the foot of the tallest building in the city, the 300-story Coal Exchange Building, the cars crashed until they had formed a pile-up that reached about a dozen stories all of its own. The mountain of twisted metal burned brightly, reminiscent of a bizarre, flickering funeral pyre.
+
+The night before the Great Crash, the citizens had beheld a peculiar spectacle: The city's taxis had all gathered in long lines to refuel. The virus had guaranteed that their tanks would be full when the time to crash came. Now they smashed into buildings like an endless rain of firebombs.
+
+
+
+The government broadcasted an emergency announcement, declaring a state of emergency for the city and calling upon the populace to stay at home. At first this decision seemed well-advised as the residential buildings had suffered very little in ways of attack when compared to the larger structures of the city. The sole reason for this mercy was that the roads of residential areas were much narrower than the main thoroughfares through the heart of the city. When the Great Crash began, these streets were almost instantly blocked-up by wrecked cars and so made impassible.
+
+This was no problem for the Curse 4.0, however. With the greatest of ease it all too soon turned every home into a death trap. All domestic gas valves were turned wide open. As soon as the explosive limit had been reached inside a home, the virus set off a spark. All across Taiyuan, blocks upon endless blocks of residential buildings were swallowed by the explosive fires. Some were ripped apart in their entirety, detonating like giant bombs.
+
+The government's next step was to cut all power to the city. There was no need. Taiyuan was already without electricity and Curse 4.0 had accomplished its mission. Now without purpose, it would take no further action.
+
+All the while, the entire city had become engulfed in a sea of fire. The flames' ferocity produced an effect eerily similar to those created by the firebombing of Dresden in World War 2. The city's oxygen was almost completely consumed by fire. Even those who escaped the burning inferno could not escape death.
+
+
+
+The Curse Upgrader was incinerated as he drowned in the ocean of flames. Now, the first three key figures of the virus' history had become victims of their own curse.
+
+Because of their minimal contact to the web, Cixin and Haitian, much like their homeless brethren, had escaped the Curse's initial operation. As the later stages of the operation began, they relied on skills and experience honed by years of living on the streets, and on agility that belied their age to dodge crashing car after crashing car. They could also depend on their extensive knowledge of the city’s roads, nooks and crannies. Armed with these assets and a good deal of luck, they amazingly managed to survive, even as the first fires began to rage.
+
+But no sooner were they out of the fire than they landed in the frying pan. As the entire city was swallowed by a sea of flames, they found themselves in the middle of a massive intersection. The suffocating heat began to shroud everything in its haze and around them the flames lashed like tongues from countless immolated buildings.
+
+Cixin had described countless cosmic catastrophes, but the scene before him emptied his mind of every thought but panic. Haitian, on the other hand, whose stories brimmed with humanism and sentimentality, remained perfectly calm and collected.
+
+Stroking his beard, Haitian looked at the inferno raging red all around. In the most drawn-out of tones, he asked himself, “Had I known…that destruction…such a magnificent…sight... Why did I … never write it?”
+
+His legs weak from fear, Cixin sat himself on the ground. “Had I known that destruction is so horrible, my writing would not have been so terribly chocked-full of it! Oh, me and my doom-saying, this really is just perfect…”
+
+Eventually, they found a point of consensus: Their very own destruction was most certainly the most rousing form of destruction imaginable.
+
+Just then, they heard a silvery voice, like a splash of crystal clear water in this burning sea. “Cixin and Haitian, come quick!!”
+
+Following the voice, the two saw a pair of horses piercing the flames like equine spirits. On these strange apparitions rode two most wonderfully beautiful women. They had come from the SFK editorial board. The riders pulled Cixin and Haitian onto the backs of their horses and off they dashed. Like lightning they shot through flickering gaps in the ocean of flames and over the burning wreckage of cars. Suddenly and soon, they found themselves in the clear and open. Already, the horses were galloping over the bridge out of town.
+
+Cixin and Haitian both heaved deep sighs of relief, taking in the cool, clear air. Holding onto the waists of the girls and feeling the soft touch of their long hair, the two authors could not help but feel that their mad dash to safety had been entirely too brief.
+
+On the other side of the bridge they reached safety. They were shortly united with the rest of the editorial staff of the Science Fiction King. All of them were riding beautiful horses. This magnificent cavalry set out toward the southwest, leaving Taiyuan behind. Their passing clearly surprised the foot-bound survivors they came across on their way. Almost everyone ogled them with great interest.
+
+A bit further down the road, Cixin, Haitian, and the Science Fiction King team saw one person among the survivors who was riding a bicycle. Now it was their turn to ogle: They could hardly believe their eyes – modern bicycles were connected to the web. Back in the city, the virus had locked all of them down as soon as the Great Crash began.
+
+But it got even stranger. Riding the bicycle was a middle-aged man, a man once named Sa Bi.
+
+Due to the severe harassment the Curse virus had brought upon him all those years ago, Sa Bi had developed an instinctive fear and loathing of all that the web had wrought. He had done much to minimize his exposure to it, including riding this 20-year-old antiquity of a bicycle. Also, he lived close to the river on the outskirts of the city. When the Great Crash happened, he had jumped on this completely offline bicycle and made his short dash to safety. In fact, Sa Bi was one of the very few people these days who was truly content, with a long line of affairs bringing him fulfillment. Had he died that day, he would have done so without resentment or regrets.
+
+Together with Sa Bi, their mounted troop finally reached the mountains. Standing on a summit, they stared at the city below, watching it burn. A powerful gale was blowing up there, sweeping around the mountaintops, billowing from all directions and down into the Taiyuan basin. There it replenished the air lost to the hungry flames.
+
+
+
+Not too far from them, the principal members of the city and provincial government were just disembarking from a helicopter that had carried them away from the inferno. As he looked upon his burning city, Taiyuan's Mayor clutched the pages of a speech in his pocket. It was a statement for the occasion of Taiyuan's immanent anniversary. Taiyuan's path to this birthday had certainly been full of twists and turns: Founded in 497 BC, it had endured China's tumultuous road toward becoming an empire, occupying a strategic position in the north of China. Razed in 979, the city had again begun to flourish during China's middle ages, not only by virtue of its military significance, but also becoming a renowned center of ancient culture and an important market city. The motto of the city's celebration should have been: “Celebrate 2500 Years of Taiyuan!”
+
+Now, this city of 25 centuries had been reduced to ashes by a sea of flames.
+
+
+
+At that time, contact with the city's authorities was finally re-established. They were advised that an army of relief troops was en route from all corners of the country. Communication, however, was soon cut off again. All that remained was the harsh rasping of static. One hour later, they received their next report: All rescue teams had called off their advance and the aerial rescue forces had turned about face as well.
+
+Some leading cadre of the provincial AI-Security Bureau had taken it upon himself to compile the code of the latest version of the Curse virus, the Curse 5.0.
+
+In this version, the target parameters for “Taiyuan City”, “ Shanxi Province”, and “China” had been replaced with “*”, “*”, “*”
+
+
+

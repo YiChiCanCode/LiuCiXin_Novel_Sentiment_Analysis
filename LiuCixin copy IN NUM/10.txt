@@ -1,0 +1,921 @@
+The Longest Fall
+
+
+
+
+
+PREFACE
+
+
+
+
+
+As the Earth's natural resources dwindled and its environment deteriorated, the world turned its gaze to Antarctica. This brought with it many changes, elevating the two rapidly rising powers in South America to a position on the pinnacle of world politics that reflected their strength on the soccer field. It also relegated the Antarctica Treaty System to the dustbin of history, its promises worth less than the paper on which they were written. These developments were accompanied by a triumph of human reason in another field: The complete eradication of all nuclear weapons. In a world without nuclear arms, the world's nations could begin their struggle for Antarctica free from the fear of the shadow of a thermonuclear apocalypse.
+
+
+
+
+
+CHAPTER
+
+1
+
+
+
+A New Solid State
+
+
+
+
+
+Making his way through the vast cave, Shen Huabei was surrounded by darkness. Had it not been for the heat radiating from the ground below, he could have easily imagined himself back on the plains, shrouded in the dark of a starless night. The heat, intense enough to draw sweat from his feet despite the thick layers of insulation provided by his boots, was one remnant of the recent nuclear explosion. Where he walked, the rocks melted by the explosion had already completely re-hardened and mostly cooled. A bit further in, he could see part of the cave wall that remained hot, emanating a faint crimson glow. In Huabei's mind it was the dim light of dawn, reaching over the far horizon of his night-covered plain.
+
+Huabei was not alone. On his left his wife, Zhao Wenjia, was making her way through the cave, while his eight-year-old son, Shen Yuan, was merrily bouncing along in front of them. Jumping and flailing, he seemed completely oblivious to the cumbersome weight of his anti-radiation suit. They were joined by the members of the UN nuclear inspection team. All around them, the team's helmet lamps cast bright beams, piercing the surrounding black.
+
+The complete destruction of the world's nuclear weapons was being achieved by two means: Dismantlement and subterranean detonation. This cave was one of sites where China carried out its subterranean detonations.
+
+As they delved deeper, the head of the nuclear inspection team, Professor Kamensky, began to make his way to the front of the group and toward Huabei and his wife. As he drew closer, his helmet lamp threw long, swaying shadows off the three of them. “Professor Shen,” Professor Kamensky called out from behind. “Why ever did you bring your wife and son? This is hardly the place for a family excursion.”
+
+Huabei stopped, waiting for the Russian physicist to catch up. “My wife is a geological engineer working for the central command of the Eradication Operation,” he noted genially. “And as for my son; I think he enjoys places like this.”
+
+“Our son has always been fascinated by the strange and the extreme,” Wenjia agreed, more to her husband than the head of the team. Even though her face was partially concealed by the radiation suit's visor, Huabei could still clearly see the unease in his wife's eyes.
+
+“First this hole was as big as our vegetable cellar. Just two explosions and now it is this huge!” the little boy in front of them called out, skipping along. “I think the bomb's fireball is just like a buried baby; it cries and shouts, stomps and kicks. Now that is a fun baby!”
+
+Huabei's gaze met Wenjia's. He was quietly smiling, but the worry in her expression had only deepened.
+
+“Son, this is the work of eight babies!” Professor Kamensky noted with a laugh. He then addressed Huabei in somewhat more sober tones. “Professor Shen, I actually wanted to talk to you about something else; this time, we detonated the warheads of eight submarine-launched SL-2's, each one with a payload of one hundred kilotons. We arranged the warheads in a square on the frame –”
+
+“And your question is?” Huabei interrupted.
+
+“Before the detonation, we could clearly see a white sphere positioned right in the center of the frame on the monitors,” Professor Kamensky explained.
+
+Huabei again stopped and now fully turned to face Professor Kamensky. “Professor, the Eradication Treaty only stipulates minimums for what can be placed underground; as far as I know, it says nothing about additions. The explosion's yield was monitored and successfully verified by no fewer than five different monitoring systems. Everything else is rather irrelevant, wouldn't you say?”
+
+Professor Kamensky nodded. “That is why I am only raising it after the detonation; I was merely curious.”
+
+“I presume that you have heard of sugarcoating?” Huabei stated more than asked.
+
+The last word could have been a powerful incantation, stopping everyone in the cave frozen in mid-step, the previously bobbing beams of the helmet lamps suddenly locking in place. Their exchange had to be transmitted through the radiation suits' wireless communication system and so everyone in the cave had clearly heard Huabei's words.
+
+Moments of silence followed, and then the members of the nuclear inspection team all began to descend upon Huabei. Everyone in this select group, no matter what part of the world they hailed from, was a luminary in the field of nuclear weapons research and they had all clearly heard.
+
+“Does it really exist?” an American asked, staring at Huabei.
+
+The latter just nodded.
+
+It was said by those who would know, that in the middle of the last century, immediately after learning of China's first nuclear weapons test, Mao Zedong had asked, “Was that a nuclear explosion?” It is unclear whether he had intended it that way, but his question showed a good grasp of the matter.
+
+The key piece of technology in a nuclear fission bomb is the implosion pressure acting toward its center compressing the fissile materials in its core. This implosion force is generated by setting off conventional explosives tightly packed around the bomb's core. The compression forces exerted by this implosion in turn causes the fissile materials to reach critical mass and so spark a violent chain reaction that initiates the nuclear explosion. All of this happens in the millionth of a second, demanding that the implosion forces acting on the fissile materials be engineered to incredibly exacting standards. Even the tiniest irregularities can prevent the fissile materials from reaching critical mass before they are scattered by the explosion. Such mishaps end in nothing more than a conventional chemical explosion. From the very beginning, researchers used extremely complicated mathematical models to design the explosive yields for the compression core. In recent years, various methods of using cutting-edge technology to produce ever more perfect compression cores had been explored. “Sugarcoating” was one of these methods.
+
+The “sugarcoating” itself was a type of nano-material that would cover the fissile material of a nuclear bomb around which the conventional explosives would then be packaged. The sugarcoating would automatically cause any pressures acting on it from the outside to be evenly distributed along its inside. As a result, even if the conventional explosives produced uneven pressures, they would all be leveled out by the sugarcoating, making the conventional explosive produce a perfect implosion.
+
+“You saw the white sphere in the middle of the eight nuclear warheads. That was an alloy packaged in sugarcoating,” Huabei explained. “During the nuclear explosion it was subjected to enormous pressures. We plan to conduct research on it during the entire eradication process. After all, this is a rare opportunity. Once all nuclear weapons have been destroyed, it will be very difficult to generate such fast-acting and powerful compression forces. It will be very interesting to see what the effects will be and what changes the test material will undergo under these enormous pressures. We hope that with this research, we will be able to afford sugarcoating technology the prospect of a bright future in civilian hands.”
+
+Considering the possibilities, one UN official said, “You should encase graphite in sugarcoating; then we could produce a large diamond with every explosion. It might make the very costly business of eradicating nuclear weapons a rather profitable endeavor.”
+
+Laughter immediately echoed throughout the com-system; the officials without technical backgrounds were always the butt of ridicule in situations like these.
+
+“I don't even know by how many magnitudes the forces produced by eight one-hundred-kiloton nuclear weapons exceed the pressure needed to transform graphite into diamonds,” someone finally noted.
+
+Just then Yuan's clear voice rang out through all of their headphones, bursting with childish enthusiasm: “The big explosion sure didn't make diamonds, but I'll tell you what it did make; a black hole! A tiny black hole! It will suck all of us in and then swallow the Earth! We will be sucked into a nicer universe!”
+
+“Ha, ha, kid,” Professor Kamensky chuckled. “The pressures created by the explosion were not powerful enough for that.” He turned, now addressing the child's father. “Professor Shen, your boy really has some strange ideas in that head of his! But what are the results of the experiment? What did that alloy become? I would guess you can't find it, right?”
+
+“I wouldn't know yet,” Huabei said, pointing onward. “Let us go and see for ourselves.”
+
+The nuclear explosions had forced the center of the cave into a gigantic sphere, turning its bottom into a round basin. The swaying beams of several helmet lamps focused on the exact center of this basin.
+
+“Those are the members of the sugarcoating test team,” Huabei explained.
+
+They all made their way to the center of the basin. It felt like walking down a stretched-out hillside.
+
+Suddenly, Professor Kamensky stopped. Squatting down, he felt the ground with both hands. “The earth is shaking!” he shouted in surprise.
+
+The others now felt it, too. “It couldn't be an earthquake triggered by the warheads' explosion, could it?” someone asked.
+
+Wenjia shook her helmeted head. “No. The geological structure of the eradication sites underwent repeated surveys; there is no way the explosion could have caused an earthquake. This shaking is no quake; it started after the detonation and has continued uninterrupted since. Professor Deng Yiwen said that it was somehow linked to the sugarcoating test, but I am not privy to the specifics.”
+
+Approaching the center of the basin, they felt the shockwaves emanating from deep within the ground increase in intensity, growing strong enough to send a tingling sensation up their legs. It almost felt as if an uneven, gigantic wheel was rumbling wildly in the Earth beneath them. Reaching the center of the basin, one suited-researcher from the small group of people gathered at the very bottom rose to greet them. It was the previously mentioned Deng Yiwen, the scientist responsible for the experiments compressing materials with nuclear explosions.
+
+“What's that in your hand?” Huabei asked, pointing at the large, whitish ball Yiwen was holding.
+
+“Fishing line,” Professor Deng answered as he left the small circle of people and squatted on the ground in front of them.
+
+Everyone in the circle was staring into a small hole in the ground. The researchers had found it there after the rock melted by the explosion had re-hardened. The strange hole was about four inches in diameter and appeared to be perfectly circular. Its edges seemed flawlessly smooth, giving the hole the appearance of having been bored by a drilling rig. The fishing line in Professor Deng's hand was incessantly unraveling into the hole.
+
+“Look,” he said, gaze on the hole. “It has already gone down more than thirty thousand feet and we are still far from the bottom. Radar probes have shown that it is close to one-hundred-thousand feet deep, and it is still going even deeper.”
+
+“How did it form?” someone asked.
+
+“It was bored by the experimental alloy after the compression. Whatever became of the alloy sank into the ground below, like a stone sinking in the ocean. The shaking is caused by reverberations as it passes through denser layers of rock.”
+
+“Heavens, that's unbelievable!” Professor Kamensky exclaimed in shock. “I was sure that the alloy would be vaporized by the heat of the explosion.”
+
+Professor Deng agreed. “If it had not been packed in sugarcoating, it most certainly would have, but it was, and so the alloy – before it ever had a chance to evaporate – was compressed into a new state of matter by the sugarcoating-enhanced implosion. We thought that supersolid would be a good name for it, but physicists already use that term, so we decided on 'new solid state'.”
+
+“Are you saying that this thing's density, compared to the density of the earth below, is analogous to the density of a stone dropped into water?” Professor Kamensky asked, still somewhat incredulous.
+
+“A good deal denser,” Professor Deng pointed out. “The main reason why a stone sinks in water is because water is a liquid. Consider that if the water freezes solid its density does not change much, but drop a stone on it and the stone will not sink. The new solid state matter, on the other hand, actually sinks through rock. You can see that its density must be truly amazing!”
+
+“So you’re saying that it has become the stuff neutron stars are made of?” An edge of fear had crept into Professor Kamensky's voice.
+
+Professor Deng shook his head. “At this point we cannot measure it precisely, but we can be rather certain that, given its rate of descent, the matter's density is significantly less than that of the degenerate matter inside a neutron star. If it really was neutron star matter, it would fall through the Earth as quickly as a meteorite plunges through the atmosphere; we would right now be at the center of both a volcanic eruption and a massive earthquake. It is a state of matter somewhere between conventional solid and degenerate matter.”
+
+“Can it fall to the center of the Earth?” Yuan asked excitedly.
+
+“It is possible. At a certain depth it will begin to sink through the liquid parts of Earth and that should further ease its way down!” Professor Deng answered the boy.
+
+“How cool! How cool!” Yuan bounced in joy.
+
+As everyone's focus was drawn to that hole, Huabei's entire family quietly retreated from the scene and into the darkness a good distance from the group. Other than the slight rumble in the ground, everything was perfectly quiet and peaceful. Even the beams of their helmet lights seemed to dissolve into the surrounding darkness. It felt as if they were nothing but three abstract presences, floating in an infinite void.
+
+They switched over to a private channel of their suits' communication system. At that very moment, his parents asked Yuan to make a decision that would determine the rest of his life: He could go with his father or with his mother.
+
+Shen Yuan's parents were faced with a tragedy significantly worse than divorce: His father was suffering from terminal stage leukemia. Shen Huabei did not know if his illness was related to his research work with nuclear material, but he was certain that he had less than six months to live. Fortunately, cryo-hibernation technology had advanced in great strides. He would be able to safely wait for a cure for his leukemia in deep cryo-sleep.
+
+Yuan had the choice of either going into hibernation alongside his father, waking up together with him in the future, or to continue a waking life with his mother. Even though, all things considered, the latter was obviously the wiser choice, the boy was leaning toward going with his father. Huabei and Wenjia had decided to use this occasion to take another shot at convincing him.
+
+“Mom, I want to stay here with you. I don't want to go to sleep with father!” Yuan immediately declared.
+
+“You changed your mind?” Wenjia was pleasantly surprised.
+
+“Yes! I think that I don't need to go to the future. Right now will be fun, too. There's that thing sinking to the center of the Earth just now. How cool is that?” Yuan was clearly excited.
+
+“Are you sure?” Huabei asked as his wife glared at him, obviously afraid that their son might change his mind again.
+
+“Of course,” Yuan called out. “I'll go look in that hole...” The beam of his helmet lamp bounced rapidly into the distance as he ran toward the heart of the basin.
+
+Watching her child rush off, Wenjia expressed her worries. “I really don't know if I'll do right by him; that kid is really taking after you, always living in one of his dreams. Maybe the future would be better for him.”
+
+Placing a hand on each of his wife's shoulders, Huabei said encouragingly, “Who knows what the future will bring? And anyway, what is the problem with him taking after me? The world will always need dreamers.”
+
+“His dreaming alone does not trouble me; it’s the reason I love you. But don't you see the other side of our child? He's already been made class monitor of two of his classes in school!” she said imploringly, the concern in her voice only deepening.
+
+“I am well aware, but I really don't know how he pulled that off,” he replied, clearly oblivious.
+
+“His desire for power is as sharp as a razor's edge and he lacks neither the ability nor means to realize it. In that way he is completely unlike you.” There was a cautious note in her voice now.
+
+“Ah, yes. It does raise the question of how he will be able to join those two natures,” Huabei mused, his cavalier tone having all but disappeared.
+
+“I am more worried about what their joining might lead to,” Wenjia said. Her voice was now lost in concern and thought, hiding some of her inner alarm.
+
+The boy's silhouette had completely disappeared in the distant group of headlamps. Turning away, both Huabei and Wenjia turned off their own lamps, becoming one with the darkness.
+
+“It does not matter; life goes on. I will wait for the right technology to come along. Maybe it will be next year, maybe it will be in a century. Maybe ...” Huabei's voice trailed off into the all-encompassing silence, “maybe it will never come. You'll easily live another forty years. Please promise me one thing: If a cure hasn't come along in four decades, you must wake me up. I at least want to see you and the boy one more time. Do not let this be our final goodbye.”
+
+“Do you want to see an old woman and a grown man ten years your senior in the future? But it is as you said, life goes on.” In the dark Wenjia managed a miserable smile.
+
+In this giant cave forged by nuclear fires, husband and wife silently lingered as their last shared hours slowly drifted away.
+
+The very next day, Huabei fell into dreamless cryo-sleep. Wenjia and their dreamer of a son continued down the treacherous road of life, toward an unknown future.
+
+
+
+
+
+CHAPTER
+
+2
+
+
+
+Rude Awakening
+
+
+
+
+
+It took him an entire day to really wake up. As his consciousness slowly began to stir, he found the world before his eyes shrouded in white fog. Ten hours passed before he was able to make out vague shadows in the haze, even as those shadows remained almost as white as everything else. Another ten hours later, he discovered that they were doctors and nurses.
+
+Cryo-sleep robbed those in hibernation of all sense of time and so Huabei remained completely certain that he had just entered the cryo-chamber on that blurry day long ago. His addled mind concluded that the systems must have malfunctioned just as he prepared to enter his long sleep.
+
+As his vision continued to recover, he was able to make out a hospital ward. All of its walls were white and a lamp on the side of his bed emitted a soft light. It all looked very familiar, further confirming his suspicion.
+
+However, he soon learned that he was wholly wrong: The ceiling above him suddenly glowed in a blue light. Seconds later, a strikingly clear writing appeared above him:
+
+
+
+Good morning! Living Earth Cryo-Vault, the company responsible for your cryo-sleep, declared bankruptcy in 2089. Your hibernation services were subsequently transferred in full to the Jade Cloud Company. Your current hibernation serial number is WS368200402 – 118. You have retained all rights entitled to you by your contract with the Living Earth Cryo-Vault. You have successfully undergone treatment and all your ailments have been cured before you were awakened. Please accept the Jade Cloud Company's congratulations to your new life.
+
+You have been in hibernation for 74 years, 5 months, 7 days and 13 hours. Your prepayment fully covered all expenses.
+
+Today is the April 16, 2125. We welcome you to the future.
+
+
+
+It took another three hours before his hearing slowly began to recover. With it, his speech returned. After sleeping for 70 years, his first words were, “What about my wife? What about my son?”
+
+A thin, tall doctor standing next to his bed handed him a folded piece of white paper. “Mr. Shen, this is a letter your wife wanted you to have,” she said as he eagerly but awkwardly took the paper from her hands.
+
+Even in my days people only rarely resorted to paper… Huabei never uttered the words groggily swimming into his mind; he merely looked at the doctor with wondering eyes and began to unfold the paper with both of his numb hands. That was when he found the second proof that he had indeed leapt through time: The paper was completely blank. Then, a blue light shimmered across its surface and writing began to appear. Soon it filled the entire page. Before entering cryo-sleep, he had on countless occasions imagined the first words his wife might say to him as he woke up, but what was written on the paper exceeded his wildest fantasies:
+
+
+
+My Dearest Huabei, you are in immediate danger!
+
+When you read this letter, I will have already passed away. I have entrusted this letter to Dr. Guo. You can trust her; perhaps she is the only person left on Earth you can trust. Follow whatever plan she may have for you.
+
+Please forgive that I did not keep my promise to wake you after forty years. Our Yuan turned out to be a completely unimaginable man and he has done unimaginable things. As his mother, I did not know how I could face you. It broke my heart. My entire life has been for nothing. Please take care.
+
+
+
+“My son? Shen Yuan?” Huabei called out as he strained with all his strength to prop himself up, his body still weak and unwilling.
+
+“He died five years ago,” the doctor answered, her voice colder than ice. She seemed utterly indifferent to the heartache this message inflicted. However, she almost immediately seemed to realize that she was talking about this man's son, and in more comforting tones added, “Your son lived to the age of seventy-eight.”
+
+It seemed as if that was the best she could say about him.
+
+She retrieved a card from her coat and handed it to Huabei. “This is your new identity card. You can find the information stored on it in the letter,” she explained.
+
+Huabei turned the letter over and over again, carefully watching the paper through his clouded eyes, but no matter how often he flipped it he could find nothing but Zhao Wenjia's short note. As he turned the letter, he noticed water-like rippling marks on the creased parts. It reminded him of pushing a finger onto an LCD screen back in his age.
+
+Dr. Guo reached a hand out toward the paper, pressing its lower right corner. Immediately the paper's display turned a page, revealing a spreadsheet.
+
+“My apologies,” she said as she withdrew her hand. “Paper in its original sense no longer exists.”
+
+Raising his head, Huabei shot her a quizzical glance.
+
+“It’s because there are no more forests,” she answered at his look, shrugging her shoulders. With a slight sigh, she began pointing to the items on the table. “Your name is now Wang Ruo. You were born in 2097; both your parents are dead and you have no relatives. You were born in Hohhot, but you have come to live here.” She pointed to the entry on the table. “A remote mountain town in Ningxia. It was the best place I could find where you will not attract attention.” She considered him for a moment. “But before you go, we'll need to give you a complete makeover.” Sizing him up, she added with sincere concern, “You must never talk about your son and you must show no interest in him, either.”
+
+“But I was born in Beijing. I am Shen Yuan's father!” he shouted in shocked protest.
+
+Dr. Guo straightened herself. “If you tell anyone outside that,” she said, the ice returning to her voice, “your cryo-sleep and the treatment will have been for naught. You won't last an hour.”
+
+“Whatever happened?” Huabei finally needed to know – now.
+
+The doctor smiled coldly as she began. “There is much in this world that you probably don't know.” She ever so slightly shook her head. “Well, we should hurry. You should first get out of bed and learn to walk again. We then need to get you out of here as quickly as possible.”
+
+Huabei was about to ask another question when the door shook with a deafening bang. With a crash, it was forced open. Seven people burst into the room and surrounded the bed.
+
+Other than their sudden entrance, these people had very little in common. They were of all ages and each was dressed in their own way. Their only immediately apparent commonality was their strange hats. The weird headgear was wide, broad enough to cover both shoulders, and could have easily been mistaken for a straw hat. Some of the invaders were wearing them and others held them in their hands. Then another, less conspicuous, common attribute became evident to Huabei; each one of them had a transparent breathing mask. Most still wore them over their faces; a few had removed the masks as they entered the room. All of them had turned their grim stares on Shen Huabei.
+
+“This is Shen Yuan's father?” the oldest-looking of these people demanded. Appearing to be at least 80, the old man sported a long, white beard.
+
+Not waiting for the doctor to respond, the people standing around the old man nodded.
+
+“He looks just like his son,” the old man declared. “Doctor, you have fulfilled all your duties to this patient; he belongs to us now.”
+
+“How ever did you learn about his whereabouts?” Dr. Guo calmly asked, standing steady.
+
+Before the old man could reply, a nurse answered from the corner of the ward. “It was me; I told them.”
+
+“You sold out a patient?” Dr Guo snapped, turning angrily to fix a withering glare on the nurse.
+
+“And I am happy that I did,” the unfazed nurse shot back, her angelic face twisting into a sardonic smile.
+
+Snatching up his clothes, a young man dragged Huabei out of bed.
+
+Numbed by cryo-weakness, Huabei collapsed on the floor, only to be kicked in the gut by a young woman of the group. The sharp point of her shoe's toe dug into his intestines, sending shooting pains through his abdomen and leaving him writhing on the cold hospital floor in agonizing contortions.
+
+Unmoved, the old man bent down and grabbed the anguished patient by the collar and with a powerful jerk, hauled Huabei to his feet. Raising him ramrod straight, the old man obviously intended to leave Huabei standing on his own, but seeing that that was not going to happen, the old man relaxed his grip. Huabei fell backwards onto the floor, knocking the back of his head.
+
+As the shock and pain of the impact sent flashes shooting before his eyes, he heard someone saying, “Well done! That bastard is finally beginning to repay his debt to society.”
+
+“Who are you?” Huabei asked, dizzy and weak. He was lying at the feet of these strange people, and looking up at them he felt as if he was staring at a band of terrible giants.
+
+“You should at least recognize me,” the old man said with a cold smile.
+
+Huabei stared up, but from his place on the floor, the man's face just looked disturbingly strange. It was all enough to send a chill up Huabei's already hurting spine.
+
+“I am Deng Yiwen's son, Deng Yang,” the man said, finally revealing his identity.
+
+The familiar name immediately jolted Huabei out of shock and into desperate action. Turning his aching body, he grabbed hold of the old man's trousers, and excitedly blurted, “Your father and I were colleagues and the best of friends! Don't you remember? You were in the same class as my son. Heavens, are you little Yang? I can't believe it; back then you –”
+
+“Get your dirty hands off of me!” Mr. Deng roared.
+
+The man who had dragged Huabei out of bed crouched down beside him. Leaning in, his eyes burned with cruel disdain as he snarled, “Listen, boy, your years in cryo-sleep count for nothing. He is now your elder, so show him the respect he is due.”
+
+“If Shen Yuan were still alive, he could be your father!” Mr. Deng exclaimed, drawing a round of laughter from the strange people staring down at Huabei. As they laughed, Mr. Deng introduced them in turn. He first pointed to the man crouching beside Huabei. “When he was a mere four-years-old, both of his parents were seared to death in the Core Breach Disaster.” He next pointed to the young woman. “This girl was made an orphan when her parents were vaporized in the Lost Bolt Catastrophe. At the time she was not yet two.”
+
+He turned to the others. “As for them, after they learned that their life's investments had come to nothing, some attempted suicide; others came to suffer from schizophrenia.” He gave a dramatic pause. “And as for myself, I was tricked by that bastard. I sacrificed my youth and my wealth to his thrice-damned project, now cursed by the entire world!”
+
+On the ground, Huabei shook his dizzy head in confusion. Obviously, he had not really understood a word he had just heard.
+
+“You are facing a tribunal,” the old man who was Deng Yang declared. “A tribunal of the victims of the Antarctic Doorstep! Even though every single citizen of our country has become its victim, it will be our singular pleasure to dole out your punishment. Of course, things would be more difficult in a regular court; and indeed, things have become even more complicated there than they were in your age. It is precisely for that reason that we cannot hand you over to the law. We will not again listen to judges and lawyers spout nonsense for years on end, only to then declare your innocence, like they did with your son. You will stand your true trial at our hands, and face your execution within the hour. You will soon find that dying of leukemia seventy years ago would have been the much gentler fate,” he promised as an intense glare smoldering in his aged eyes.
+
+A chorus of cruel cackles rose from the strangers surrounding Huabei. Then, two of them pulled him up by his arms and hauled him out through the door, his weak legs dragging across the floor. He had no strength to struggle or resist.
+
+“Mr. Shen, I have done all in my power,” Huabei heard Dr. Guo say as he was dragged out the door. He tried to turn his head to see her, to catch another glimpse of the one person his wife had told him he could trust, but to no avail; he had neither the strength nor the freedom of movement to turn his head. Huabei was left with only her words sending him off.
+
+“It is all right,” she said. “Do not be too disappointed; these are hard times to live in.”
+
+Then he was out the door. As he crossed the threshold, he could hear one more shout from behind him: “Quick, close the door; turn up the air filter! Do you want us to choke to death?”
+
+The tone in her voice made it all too clear to Huabei that she was no longer concerned with his fate.
+
+Once out the door, he immediately understood the meaning of the doctor's words; there was an acrid smell in the air that burned his nose and made it hard to breathe. He was hauled on through the hospital corridors and out the front entry door. The people dragging him did not let up. With his arms over their shoulders, they relentlessly marched on.
+
+Finally outside, Huabei took a deep breath, expecting fresh air to flood his lungs. The air, however, was far from fresh. In fact, it was even fouler than it had been inside the hospital, constricting his throat and setting his lungs on fire. He was instantly wracked by violent and unremitting coughs.
+
+Just as he felt that he was about to asphyxiate, he heard someone next to him say, “Put a respirator on him; we don't want him dying on us before he makes it to his execution.” Huabei felt a hand putting something over his mouth and nose. Even though one foul smell was instantly replaced with another, he could at least finally breathe easy.
+
+The unseen stranger admonished another: “Hey, there's no need to give him a screen-hat. The UV won't have any chance to give him another round of leukemia in the short time that he'll be around.”
+
+Those words led to another round of cruel laughs. As they laughed, Huabei began to steady himself with panting breaths. After the tears of coughing and the sensation of asphyxiation had finally cleared, he raised his head and took his first look at the future.
+
+The first thing Huabei noticed were the people on the sidewalks; all of them were wearing the transparent respirator face masks and each and every head was covered by one of those large straw hats his kidnappers had just called a “screen-hat”. He also saw that everyone was wearing layers of clothes, even though the air was simmering with heat. Look as he might, he could not find an inch of skin exposed to the sun. Looking further afield, Huabei found himself at the bottom of a canyon-like landscape of skyscrapers, tall enough to pierce the clouds and they quite literally did. These towering buildings rose straight up into low-hanging, gray clouds that seemed to shroud the whole world. Scanning this claustrophobic sky, he found the dim orb of the Sun. Obscured by the hazy, dark clouds, its faint halo barely filtered through. It was then that he realized that these were no ordinary clouds, but endless, thick smog.
+
+“A magnificent time we live in, isn't it?” Mr. Deng asked, his voice dripping with sarcasm.
+
+The others again broke out into laughter, sounding like they were literally having the time of their life.
+
+Huabei was dragged toward a car waiting close by. The vehicle looked somewhat different from the cars he remembered, but it most certainly was an automobile. It was the size of a minibus, obviously capable of carrying all of them.
+
+Just then, two people walked past them. They were wearing some sort of helmet and their attire was very unlike anything Huabei had ever seen. But it only took a glimpse for Huabei to realize their identity, and he immediately shouted out, “Help! I am being abducted! Help!”
+
+The two police officers spun around and quickly appraised the situation. Seeing the patient gown on Huabei and his exposed arms, one of them asked, “Have you just awoken from cryo-sleep?”
+
+Huabei weakly nodded his head. “I am being abducted –”
+
+The other police officer nodded. “Sir, this sort of thing is far too common. Many people are waking from cryo-sleep at the moment and resettling you all is putting a heavy strain on our society's social safety net; therefore you often become the victims of hostility and attacks.” He sounded much too calm for Huabei's comfort.
+
+“I think something different is going on ...” Huabei was about to explain, but the police officer cut him short with a wave of his hand.
+
+“Sir, you are safe now.”
+
+Then the officers turned to Mr. Deng and his band. “This gentleman is in obvious need of further treatment. The two of you take him back to the hospital. We will sort out what happened here. I am also notifying all seven of you that you will be taken into custody on kidnapping charges.” As he spoke, the officer activated a communicator on his wrist to call for backup.
+
+Mr. Deng rushed forward to stop him. “Please, a moment, officer! We are no thugs persecuting cryo-sleepers. Take a closer look at him; doesn't he look familiar?”
+
+Both police officers moved in and carefully began to study Huabei's face. As they briefly lifted his respirator, the light of recognition flashed across their eyes. “He,” an officer exclaimed in surprise, “he looks just like Mi Xixi!”
+
+“It is not Mi Xixi. He is Shen Yuan's father!” Mr. Deng revealed dramatically.
+
+The eyes of the two police officers immediately widened in disbelief. Their shocked gazes jumped from Mr. Deng to Huabei and back again. From their expression, they might just as well have been staring at a ghost and its keeper. The Core Breach Orphan pulled the officers to the side and began to speak in low tones. As he implored them, the two officers repeatedly looked up and over to Huabei; and as they did, their expressions began to change. The final glance they shot him filled Huabei with despair. It was obvious to him that the police had been won over to Deng Yang's cause.
+
+The officers finally returned, but they were now no longer even looking Huabei in the eye. Observing the perimeter, one of the police officers stood sentry while the other walked straight up to Mr. Deng and said in a hushed but forceful voice, “We saw nothing. The public must absolutely not be made aware of his presence or we'll have a riot on our hands.”
+
+Cold terror gripped Huabei's heart. What the officer had said was chilling enough, but the way he had blatantly disregard him as he spoke was even worse. Huabei could just as well have been another lamppost for all the attention the officer paid him, or maybe a dumpster.
+
+His kidnappers bundled Huabei into the car and when they were all seated, started the vehicle. As soon as the car's engine revved up its windows tinted, preventing the Sun from shining in and him from looking out. The car was self-driving and completely devoid of any visible means of manual control. No one spoke as they took to the road.
+
+For no other reason than to break the suffocating silence, Huabei blurted, “Who is Mi Xixi?”
+
+“A movie star,” the Lost Bolt Orphan sitting next to him advised. “He is famous for playing your son. Shen Yuan and alien monsters are the media's villains of the day. ”
+
+Huabei shifted uneasily, trying to edge away from her. As he did, his arm accidentally pushed into a button below the car window. Immediately the window's tint cleared. Looking outside, Huabei gasped in shock as he realized that the car was making its way onto an enormous and bewilderingly complex circular highway overpass. The overpass was jam-packed with cars, each less than six feet from the next. There was a good reason for Huabei's shock: By no means was this a traffic jam. Even though the distance between them demanded otherwise, each of these cars was driving at full speed, zooming along at easily 60 miles per hour!
+
+It made the entire overpass look like an insanely whirring wheel of cars. Just then, Huabei realized that their car was heading toward an intersection. There was no sign that the vehicle was slowing its dizzying speed. And indeed, it hit the flow of traffic at full speed, right into a gap that opened the moment it hurtled in. Gaps like this one constantly opened in the intersection's traffic allowing the onrushing traffic to seamlessly merge. It all moved almost too quickly for the human eye to follow. Huabei had long understood that the cars were being operated by auto-pilot; now he realized that their AI allowed them to utilize the highway to its limit.
+
+Someone reached over from behind him and the window re-tinted.
+
+“You really want to kill me for something that I know absolutely nothing about?” Huabei finally protested.
+
+Mr. Deng, who was sitting in the front, turned his head. Almost apathetically he answered, “Well, then I guess I'll just have to tell you.”
+
+
+
+
+
+CHAPTER
+
+3
+
+
+
+The Antarctic Doorstep
+
+
+
+
+
+“People strong in imagination are often weak in body and action; while the strong, who grasp the reins of history, all too commonly lack imagination,” the old man told him. “Your son was one of the few who had it all. For the most part, reality was just a small island in the vast ocean of his fantasies, but when he set his mind to it, he could turn his world upside down and inside out, making his fantasy the island and reality the ocean. He was a remarkable sailor of both of those oceans...” he added enigmatically, lost in his own thoughts.
+
+“I understand my son,” Huabei interrupted. “There is no need to waste my remaining time with superficialities.”
+
+“Anyway,” Mr. Deng continued, “you could have never expected to what heights Shen Yuan would climb and how much power he would come to hold. It allowed him to make his most twisted fantasies a reality. It is a pity that we did not see the danger sooner. Perhaps others like him had come before, but they only grazed the Earth. They were like comets, disappearing into the vastness of space without ever unleashing their destructive potential upon our world. Unfortunately, history provided your son with the opportunity to turn his twisted fantasies into just that kind of disaster.
+
+“Five years after you entered cryo-sleep, the global struggle for the lands of Antarctica led to its first conclusion,” Mr. Deng said. “It was decided that the continent would be developed in a joint global effort, but each of the major powers also managed to carve out a large, exclusive economic zone on the Antarctican territory for itself. The powers did all they could to ensure that their economic zone would thrive and also to expedite the development of its resources. It was believed that this rush for Antarctica's riches would be the only hope for the great powers to finally shake off the long economic stagnation caused by their ruined environments and the depletion of their natural resources. 'The future lies on the top of the world' was a popular slogan back then.
+
+“It was during this time that your son developed his insane idea,” Mr. Deng said in a chilly tone. “He claimed that his plan would really put Antarctica on China's doorstep, making travel to Antarctica as convenient as traveling from Beijing to Tianjin. This was not meant as a metaphor, but as hard fact. The journey was to last no longer than the forty-five minute trip to Tianjin and it was to use less energy and create less pollution. It all began with a now famous TV address. Back then, the entire country burst into laughter. It seemed to be pure comedy gold. But they were all silenced when they were confronted with the amazing truth that his plan was actually feasible! It was the seed of an idea that would germinate into the disastrous Antarctican Doorstep project.” As he finished this part of the story Mr. Deng fell into an inexplicable silence.
+
+“Go on. What was the idea?” Huabei urged him to continue.
+
+“You will come to understand it,” Mr. Deng answered, his voice as cold as ice.
+
+“Then at least tell me what my role in all of this is supposed to be,” Huabei pleaded, desperate for answers.
+
+“Because you are Shen Yuan's father; is it not obvious?” Mr. Deng's tone lost none of its iciness.
+
+“Has the future regressed to the feudal ideas of hereditary determinism?” Huabei asked, unsure whether to sound sarcastic or appalled.
+
+“Of course not.”
+
+Huabei would not have been surprised to see icicles around Mr. Deng's lips at the tone.
+
+“But your son's own words on countless occasions made it clear to everyone that you, in fact, determined your progeny's fate. When he became world famous, he professed that his ideas and his entire personality had for the most part been shaped by his father when he was but a small child. In his later years, he always said, where no more than an opportunity to fill in the details. He made it very clear: The originator of the idea for the Antarctic Doorstep was his father.”
+
+“What? Me? Antarctica?” Huabei was completely flabbergasted. “A doorstep? This is simply –”
+
+“Listen up, this is my final point,” Mr. Deng interrupted. “You also provided the technical foundation for the Antarctic Doorstep.”
+
+“What do you mean?” Huabei almost shouted the question, agitated and annoyed.
+
+“The new solid state materials, of course,” Mr. Deng replied, unmoved. “Without them, the Antarctic Doorstep would have remained but a dream. With them, it was almost instantly transformed into twisted reality.”
+
+Huabei shook his head in confusion; he could not for the life of him imagine how materials made of the super dense solid state matter could possibly put the Antarctic on China's doorstep.
+
+Just then, the car stopped.
+
+
+
+
+
+CHAPTER
+
+4
+
+
+
+The Gate of Hell
+
+
+
+
+
+Stepping out of the vehicle, Huabei was greeted by a very peculiar hill. The entire thing was a strange rusty color and completely barren. He could not see a single blade of grass or lonely flower anywhere on its surface.
+
+Mr. Deng cocked his head toward the hill. “That is an iron hill.” Seeing the shock in Huabei's eyes, he decided to reinforce the fact. “This is a large lump of iron.”
+
+Bewildered, Huabei looked all around for some explanation, but all he saw were several more of these strange hills in the immediate vicinity, rusted mounds rising above the vast surrounding plain. It made the entire place look like an alien landscape.
+
+Huabei had regained some of the strength in his legs and could now walk. Surrounded by his kidnappers, he began to hobble toward a massive structure in the distance. It was a perfect cylinder, several hundred feet tall. The structure's surface seemed to be completely smooth without any visible doors, windows or other openings. As they approached, a heavy metal door slid open with a groaning rumble, revealing an entrance. They entered and as soon as they had, the door closed tightly behind them.
+
+In the dim light, Huabei could make out that they were in a room that roughly resembled an airtight cabin. Looking around, he saw a row of heavy suits hanging from the smooth, white walls. They looked almost like spacesuits and were clearly fully sealed. His kidnappers each took one from the wall and began suiting up. Two of them helped Huabei into one of these suits. As all this was going on, he continued to study his surroundings. He could see another tightly sealed door in front of them. A red light was burning above it. Next to the light he could see a glowing number. Huabei quickly realized that it was showing an atmospheric pressure reading.
+
+After his heavy helmet had been screwed on and tightened, he saw a transparent liquid crystal display flash into life in the upper right corner of his visor. On it a rapid successions of numbers and graphs rolled past his eyes. He could only make out that it was the suit's internal self-test system. Then, he heard the deep drone of machinery start. He soon noticed the air pressure indicator above the door begin to decrease rapidly. In a mere three minutes it hit zero. When it did, the red light next to it turned green and the door below slid open. Behind it laid the pitch black of the inside of this strange, sealed structure. It confirmed Huabei's conjecture: They were standing in an airlock into a vacuum; or, in other words, that this huge cylinder contained a vacuum.
+
+One by one they entered the cylinder's body and this door also closed behind them. They were now in almost complete darkness, the only light emanating from the lamps on their helmets, and their beams did not reach far. A sense of déjà vu began to creep up on Huabei, sending shivers down his spine as his heart was gripped by nameless dread.
+
+“Go on,” Huabei heard Mr. Deng's voice echo from his helmet's headphone. Their lamps' glow soon illuminated a small bridge. It was no wider than three feet and stretched into the unknown dark beyond. Huabei could not have guessed how far it reached. Below the bridge there was only inky black.
+
+With trembling steps, Huabei made his way on to the small bridge. Each step of his suit's heavy boots drew a hollow ring from the bridge's thin metal surface. After he had walked a few feet, he looked behind him, but he could not see any of his kidnappers follow. Moments later, all helmet lamps were turned off, engulfing them in total darkness. This black only lasted for a few seconds before a blue glow suddenly began to shine from below the bridge. Looking back again, he saw that he remained alone on the bridge. The others were crowded on the near side, one and all looking straight at him. In the blue light they looked like a gathering of spirits. Supporting himself on the bridge's railing, he looked down. His blood felt chilled solid; the terror all but strangled him.
+
+He was standing directly above a very deep well.
+
+This well was about 30 feet in diameter and on its walls he could see rings of lights, installed in regular intervals. It was these lights that had lifted the well and its depths from the surrounding darkness. On the bridge, Huabei was standing right over the center of the well's mouth. Seen from where he stood, the well seemed bottomless, the countless circles of light growing ever smaller in the depths until they appeared to merge into a single point of blue light. Huabei felt as if he were looking down on a giant, glowing blue target.
+
+“Now we will initiate your execution. You will repay all that your son owes us!” Mr. Deng's voice rang powerfully in his helmet. He could see Mr. Deng begin to turn a wheel installed at the bridge's head. As the wheel spun, Huabei could hear him mumble, “For my stolen youth and for wasting my talents...”
+
+The bridge began to tilt. Huabei quickly clung to the bridge's railing in an attempt to steady himself.
+
+Mr. Deng stepped aside, giving the Core Breach Orphan a turn at the wheel. The man turned with all his might. “For my mother and father, seared to death...”
+
+The bridge was tilted another few degrees.
+
+He, too, stepped away, giving the Lost Bolt Orphan her chance. As she turned the wheel, she stared at Huabei. “For my vaporized father, my vaporized mother...”
+
+The one who had lost his fortune and attempted suicide grabbed the wheel from the woman. “For my money, my Rolls Royce and my Lincoln, for my beach house and swimming pool, for my ruined life and for my wife and children, waiting in lines on cold streets just to get their welfare handouts...”
+
+The bridge was now turned on its side, leaving Huabei hanging on to the top railing as he desperately crouched on the railing now below him.
+
+The one who had lost all his wealth and now suffered from schizophrenia joined in, lending his strength to the turn of the wheel. If he was being treated, it obviously was not successful; his illness remained all too apparent. He said nothing, only cackling down into the depths of the well.
+
+The small bridge was now completely inverted and Huabei was barely holding on, dangling from the railing above the well's maw.
+
+Almost all fear had left Huabei; not even that bottomless pit below, the very image of the gates of hell, could scare him now. Huabei's life, sure to end soon, flashed before his eyes…
+
+…Gray childhood and youth – Huabei could remember little cheer and happiness in that part of his life. Making his way into the world. Achieving academic success by inventing the sugarcoating technology. But life had still not welcomed him. Struggling in all his relationship, even as they entangled him ever more tightly. Never really feeling love; marrying because he had to. He had made up his mind never to have children and then he brought a child into the world…Living in a world of his thoughts and dreams, an outcast most people disliked; always sticking out in company like a sore thumb. An entire life made of moments of loneliness, forever sailing against the current, he had hoped for a better future.
+
+But this was the future: His wife was dead, his son a public enemy, a polluted city filled with people full of twisted hate…
+
+All of this left only hopelessness for this future and his life. When he had first been kidnapped, Huabei had been determined to learn the truth of his situation before he died. Now, it seemed to have lost all meaning. All he was was tired. His only remaining desire was for the liberation of death. He felt himself fall.
+
+Cheers rose from the well's edge as Huabei's grip finally failed. He fell, straight down into the fateful blue glow of those concentric rings.
+
+Huabei closed his eyes as the weightlessness of the fall embraced him. It felt as if his body had dissolved entirely, as if all the unbearable weight of life had already left him. In the last seconds of his existence in this world, he suddenly recalled a song. It was a song his father had taught him, an ancient piece of music from Soviet times. It was music lost to time; even in the days before he entered cryo-sleep, no one had remembered it. Huabei had been on exchange in Moscow once. There, he had hoped to find someone who knew the tune, but even in Russia the song had been lost forever. So it became his song. He would only be able to hum the first few notes in his head before he hit the bottom, but he was certain that when his soul finally left his body, the song would continue with him into the next world…
+
+Without really being aware of it, he had already hummed half of the song's slow melody. With a jolt he realized how much time must have passed. Snapping his eyes open, he saw one circle of blue lights rush past after next. He was still plummeting down the well.
+
+“Ha, ha, ha, ha ...” Mr. Deng's maniacal laughter rang from his headphone. “You are about to die. It feels good, does it not?”
+
+Looking down, Huabei saw countless concentric blue light circles streaking toward him. As each circle grew and passed him by, another small circle emerged from the heart of the well and quickly began to expand. Looking up, he saw more concentric circles, except these shrunk in an exact mirror image of the growth of the circles below.
+
+“How deep is this well?” he asked aloud.
+
+“Rest assured, in a flash you will reach the bottom and that bottom is hard steel. You will be flat as a pancake soon enough! Ha, ha, ha, ha ...” Mr. Deng continued chuckling.
+
+With the laughter still ringing in Huabei's ears, he noticed that the small display on the top corner of his visor had flickered back to life. It displayed lines of glowing red text:
+
+
+
+You have reached a depth of 60 miles
+
+Your speed is 0.9 miles / sec
+
+You have passed through the Mohorovicic Discontinuity
+
+Having passed the crust, you are now entering the Earth's mantle
+
+
+
+Huabei again closed his eyes. This time the song did not return to his mind; instead he let his brain whir away, dispassionately analyzing the new data like a soulless machine. It took him less than 30 seconds. Opening his eyes, he understood it all: This was the Antarctic Doorstep Project; there was no bottom of hard of steel. This well was indeed bottomless.
+
+This was a tunnel straight through the Earth.
+
+
+
+
+
+CHAPTER
+
+5
+
+
+
+The Greatest Tunnel
+
+
+
+
+
+“Does it take a tangential path or does it pass through the Earth's core?” Huabei asked. He was contemplating the point when he uttered the words without really intending to.
+
+“You really are clever; you figured it out quickly!” there was a hint of genuine admiration in Mr. Deng's voice.
+
+“Just like his son,” someone chimed in, judging from the voice probably the Core Breach Orphan.
+
+“It goes through the Earth's core from the northernmost city of China, straight down to the eastern most part of the Antarctic Peninsula,” Mr. Deng answered Huabei.
+
+“The city we were just in was Mohe?” Huabei exclaimed in disbelief at how much ‘China's Arctic Village’ had certainly changed. In his day, he had known it only for its geographic prominence and as a small tourist town.
+
+“Indeed, being the Earth Tunnel's starting point allowed it to grow and flourish,” Mr. Deng confirmed.
+
+“As far as I know, if I am going straight through the Earth, I should arrive in the southern portion of Argentina from there,” Huabei mused.
+
+“Not bad, but this tunnel is slightly curved,” Mr. Deng replied.
+
+“But if it is curved, won't I hit the walls?” Huabei inquired, more curious than afraid.
+
+“If the tunnel went straight through the Earth to Argentina you would certainly hit them; the only place such a perfectly straight tunnel would work is between the poles. A tunnel going through the Earth's axis at an angle, on the other hand, must take the Earth's rotation into account. The tunnel's curvature is what allows you to fall straight through the Earth,” Mr. Deng said, providing the pertinent details.
+
+“Ah, that's some fantastic engineering!” Huabei was genuinely impressed.
+
+
+
+You have reached a depth of 185 miles
+
+Your speed is 1.5 miles / sec
+
+You have entered the viscous region of the Earth's mantle
+
+
+
+Huabei had noticed that the frequency with which he passed through the rings of light was rapidly accelerating. As they did, the density of the concentric circles above and below increased.
+
+Again he heard Mr. Deng's voice through the headphone. “The construction of a tunnel through the Earth is not a new idea. In the eighteenth century, two scholars already came up with the plan; one was a mathematician by the name of Pierre Louis Mauperturis, the other the world famous Voltaire. Later, the French astronomer Camille Flammarion again brought up the idea. He was also the first to consider the Earth's rotation...”
+
+“Then why ever would you claim that I came up with the idea?” Huabei interrupted, perplexed and annoyed.
+
+“Because for them, it was nothing but a thought experiment. Your idea, however, actually influenced someone; and that person later used his own demonic talents to make your fantasy a reality.” Even now Mr. Deng seemed to enjoy speaking in riddles.
+
+“But,” Huabei paused, dredging his memory, “I don't remember ever bringing it up with Shen Yuan.”
+
+“Are you suffering from amnesia?” Mr. Deng chided. “Your idea changed the course of human history, and you cannot even remember it?”
+
+“I really can't recall,” Huabei said haltingly, desperately trying to remember.
+
+“Then can you recall Mr. Benitez, the Argentine, and the gift he gave your son for his birthday?”
+
+
+
+You have reached a depth of 930 miles
+
+Your speed is 3.2 miles / sec
+
+You have entered the rigid region of the Earth's mantle
+
+
+
+Huabei finally remembered. It had been Yuan's sixth birthday and he had invited the Argentine physicist, Professor Benitez. At the time, the two great South American nations had already risen to power and Argentina had claimed vast swathes of Antarctica as its territory. In the wake of these developments, a large number of Argentines had migrated to Antarctica and Professor Benitez had come to stay in Beijing. Argentina had then been on the verge of going nuclear, shocking the entire world community. In the nuclear disarmament process that followed, Argentina had naturally joined the nuclear powers as a member of the UN Eradication group. Benitez and Huabei had both been experts in the technical unit of that group's standing committee.
+
+On that day, Prof. Benitez had given Shen Yuan a globe as a gift. The globe was made from the newest glass materials. The material had been a symbol of Argentina's rapidly developing technological prowess and was no more refractive than air, making it essentially invisible. This gave the continents on the globe’s surface the appearance of floating in space between its poles. Shen Yuan had been very happy with his birthday present.
+
+As they chatted after dinner that day, Prof. Benitez had produced a prominent local newspaper. He’d shown Huabei the paper's political cartoon: It was an Argentine soccer star, kicking the globe.
+
+“I don't really like this kind of thing,” Prof. Benitez had said. “The Chinese people seem to know nothing about my country, except for soccer. And that general ignorance seems to extend to international politics: I have the feeling that you see Argentina as nothing more than aggressive and boisterous.”
+
+“But you should consider,” Zhao Wenjia had replied with a smile, “that no country is farther from ours than Argentina; you are our exact planetary opposite.” She took Shen Yuan's transparent globe to demonstrate how Argentina and China overlapped on that transparent Earth.
+
+“In fact, there is a way by which we could link our nations more closely,” Huabei had said, taking the globe. “One would just have to dig a tunnel from China, right through the Earth's core.”
+
+Prof. Benitez had at first been skeptical. “That tunnel would be almost eight thousand miles long; that is not much shorter than the flight distance.”
+
+“But travel would be much quicker,” Huabei had said, now somewhat excited by the possibility. “Just think, one would just have to grab one's bags and jump into the tunnel...” His original intent that day had just been to steer the conversation away from politics; in that regard he had scored a brilliant success.
+
+“Shen, you really have an extraordinary way of thinking,” the now clearly interested Prof. Benitez had continued. “Let me see… After I jump in, I begin to accelerate. My acceleration would increase with the depth of my fall, right up until I reach the center of the Earth. As I passed through the center of the Earth, my speed would be truly enormous, but my acceleration would reach a precise zero; then I would begin to decelerate as I rose upward. The speed of this deceleration would continuously increase the higher I got, right up until I reach the surface on the other side of the world on Argentinean soil. There my speed would reach a perfect standstill. If I wanted to return to China, all I would have to do is jump back down from there. I could also just let myself fall right back down, entering into harmonic swing between Southern and Northern Hemispheres, perpetually falling up and down without exerting any force at all. Wow, what a fun idea, and as for the travel time...”
+
+“Let's quickly calculate it.” Huabei had turned his computer on.
+
+They soon had the results: Given the Earth's average density, one could jump into the tunnel in China and fall the roughly 7,900 miles to Argentina in a mere 42 minutes and 12 seconds.
+
+“Now that is fast travel!” Prof Benitez was obviously in high spirits.
+
+
+
+You have reached a depth of 1,700 miles
+
+Your speed is 4.0 miles / sec
+
+You have passed through the Gutenberg Discontinuity
+
+You are now entering the Earth's core
+
+
+
+Still falling, Huabei heard Mr. Deng say, “That evening, you certainly had no inkling that your son had stared at you the entire time, his ogling eyes brimming with brilliance, and that he had been enraptured by every word you said. You also had no idea that he stared at that transparent globe at his bedside all night. Of course, there were countless times that you had that same effect on your son. You sowed the seeds of many fantasies in his mind, but this was the one that blossomed into a catastrophic flower.”
+
+Huabei stared at the walls surrounding him. They were 10, maybe 20 feet away, and rushing past at incredible speed. The rings of light shooting by on the surface of the walls seemed to blur together into one.
+
+“Is this the new solid state material?” he asked.
+
+“What else should it be?” Mr. Deng immediately understood to what Huabei was referring. “What other material would be strong enough to build a tunnel like this?”
+
+“How was this massive amount of new solid state material produced? How was this material – heavy enough to sink right into the Earth – transported and processed?” Countless questions raced through Huabei's mind.
+
+“You have time for only a very abbreviated explanation,” Mr. Deng answered. “The new solid state materials are produced via a continuous small-scale nuclear explosion. The key piece of technology is of course your sugarcoating. The production lines are as massive and complex as you would expect. Furthermore, the new solid state material can be produced in many grades of density. Relatively low density materials do not sink into the ground and are formed into foundation surfaces that can hold higher density materials. This disperses the pressure exerted by these higher density materials and allows them to be suspended over the ground. Using methods such as these, the material can also be transported. As for the processing, that technology is far more complex and probably completely incomprehensible to you, given your lack of expertise in the area. In short, new solid state materials are a massive industry, exceeding steel production in economic significance. It is used for much more than just the Antarctic Doorstep Project.”
+
+“Then how was this tunnel constructed?” Before whatever fate awaited him, Huabei wanted to know.
+
+“Let us start at the beginning.” Mr. Deng seemed willing to share. “The key component of this tunnel’s construction was the tunnel sections. Every tunnel section was about three-hundred-thirty feet long. The entire tunnel is made up of about twenty-four-hundred of these sections. As for the specifics of the construction process, you are smart; you should be able to figure it out.”
+
+
+
+You have reached a depth of 2,550 miles
+
+Your speed is 4.7 miles / sec
+
+You are now in the liquid Earth core
+
+
+
+“Using an open caisson?” Huabei gave it his best shot.
+
+“Yes,” Mr. Deng confirmed his conjecture, “an open caisson operation was used. First, well sections were lowered into the Earth from both the Chinese and the Antarctican end and eventually joined to a single pipe, passing through the entire planet. The second step was to extract the matter from this pipe to form the actual tunnel. You saw the iron hills outside the tunnel's entrance; those are made up of the iron-nickel alloy extracted from the tunnel sections that passed through the Earth's core. The actual construction work was carried out by subterranean ships. These vehicles, made of new solid state materials, can swim through the deep layers of the Earth. Some models could even dive down to the Earth's core. It was these ships that installed the tunnel sections and aligned them deep within the Earth.”
+
+“The way you describe it, the tunnel would have only needed a hundred-twenty-thousand tunnel sections,” Huabei noted.
+
+“The super solid materials used could easily withstand the immense pressures and temperatures of the lower reaches of Earth, but many regions of those depths are liquid. In the relatively shallow areas it was liquid magma, but the liquid iron-nickel flows in the Earth's core were much more dangerous,” Mr. Deng told him. “These flows could strike out against the tunnel walls with shearing force. Even though the strength of the new solid state materials was great enough to withstand such hits, the joints between the tunnel sections could not. Therefore, the tunnel was placed inside two layers of tunnel sections. The inner layer was firmly attached to the outer layer, the two layers actually being interwoven. This made the tunnel strong enough to resist the nickel-iron shears.”
+
+
+
+You have reached a depth of 3,350 miles
+
+Your speed is 4.8 miles / sec
+
+You are now approaching the solid Earth core
+
+
+
+“Now I suppose you will want to tell me what a disaster the Antarctic Doorstep turned out to be.” There was little doubt in Huabei's voice as he continued to plummet.
+
+
+
+
+
+CHAPTER
+
+6
+
+
+
+Disasters and Catastrophes
+
+
+
+
+
+“Twenty-five years ago, the Antarctic Doorstep suffered its first disaster, just as the project entered its final survey and design stage,” Mr. Deng resumed. “This stage required that a large fleet of subterranean ships work on the project. One of these survey ships was the Setting Sun VI. This ship capsized in the Earth's mantle and sank to the Earth's core. Of the crew of three, two died in the accident, but the young pilot was fortunate enough to survive the catastrophe. Even so, she was now trapped in the Earth's core, damned to live her life encased in the claustrophobic confines of the subterranean vessel. The ships neutrino-based communication equipment had lost its ability to broadcast, but it could still receive communications. Incidentally you should know, her name was Shen Jing; She was your granddaughter.” There was more than a slight hint of cruel pleasure in Mr. Deng's voice.
+
+Pain and sorrow gripped Huabei's heart.
+
+At his unimaginable velocity, the rings of the lights all blurred into one, making the wall of the well glow in blinding blue light. Plummeting at close to peak speed, it seemed that he was falling into a tunnel of light; an experience that would soon repeat.
+
+
+
+You have reached a depth of 3,600 miles
+
+Your speed is 4.9 miles / sec
+
+You have entered the Earth's solid core
+
+You are now approaching the center of the Earth!
+
+
+
+“As the Antarctic Doorstep Project entered its sixth year, the tragic Core Breach Disaster struck,” Mr. Deng said. “As I have already mentioned, the tunnel was constructed utilizing interlocked layers of tunnel sections. Before the inner layer pieces could be inserted, the outer layer had to be joined and the material extracted from its core. The latter was vital to avoid any foreign material getting caught between the layers and affecting the closeness of the fit. The engineers extracted the matter from the outer tunnel, section by section, and then inserted the inner tunnel pieces as each outer section was hollowed out. This left a window of sorts. Just as the material was being extracted from each section and as the inner tunnel was being inserted, there was a window during which the sections and the joints between them were vulnerable to external forces. As the work approached the Earth's core, the sections had to withstand the onslaught of nickel-iron flows. Of course, the joints between the well pieces utilized extraordinarily sturdy riveting technology designed to withstand just such assaults for extended periods of time.
+
+“As the work encroached within three hundred miles of the Earth's core, disaster struck. Just as the matter was being extracted from the outer well section, the joint was subjected to an unusually powerful flow – five times more powerful than any of the previously surveyed flows. The forces it exerted dislocated the two well pieces. Super-hot and super-pressurized material from the Earth's core immediately burst through the breach, shooting up the already completed tunnel. As soon as the breach was detected, the acting director of the project, Shen Yuan, immediately ordered the closing of a valve-gate located in the Gutenberg Discontinuity, known as the Gutenberg Gate. In the moment that he gave that order, more than twenty-five-hundred engineers were working in the three hundred miles just below that gate. These workers boarded high-speed freight elevators to evacuate the tunnel as soon as they became aware of the breach. In total there were more than one-hundred-thirty elevators up. The last elevator was outrunning the rising tide of the iron-nickel flow by a mere twenty miles. In the end, only sixty-one elevators made it through the Gutenberg Gate before it closed; all others were trapped on the wrong side and swallowed by torrents of the core flow, burning at more than seven thousand degrees. One-thousand-five-hundred-twenty-seven perished in the Earth's core that day.
+
+“The Core-Breach Disaster shocked the entire world,” Mr. Deng continued, his tone both bitter and dead. “At the time, Shen Yuan was subjected to intense criticism from two opposing directions: One group said that he absolutely could have waited for all the elevators to clear the Gutenberg Gate before closing it. After all, the nickel-iron flow was still a good twenty miles from the gate at the time. It was close, but there still would have been time. And even if the Gutenberg Gate had been compromised, there would have been the Mohorovicic Gate. This was another valve-gate at the Mohorovicic Discontinuity, the boundary between Earth's surface and the mantle. The incensed families of the disaster's victims accused Shen Yuan of murder. His only publicized response to this was, 'I was afraid of a fissure forming'. This 'fissure' certainly had to be prevented; it even became the topic of more than one Antarctic Doorstep disaster movie. One of these movies was called Iron-Fall.
+
+“The movie painted the nightmare scenario of matter from the Earth's core erupting to the surface, shooting a titanic fountain of liquid iron-nickel alloy into the stratosphere. High up in the atmosphere it scattered, blooming into a gigantic flower of death, its blinding, white light turning night into bright day in the Northern Hemisphere. The Earth was covered with torrents of scorching, molten iron, and all of Asia was burned to a smoldering inferno. Humanity suffered the fate of the dinosaurs.”
+
+Mr. Deng paused giving Huabei a few moments to contemplate all he had heard.
+
+Then Mr. Deng’s voice in Huabei’s headphone continued. “What I just described was no exaggeration and it was these fears that led another group to accuse Shen Yuan from the entirely opposite direction: They said that he should have closed the Gutenberg Gate sooner. In essence, what they charged was that he should not have waited for any of the elevators. This criticism was far more widespread than the accusations from the other side. In the end, it led to Shen Yuan being charged on two counts in the court of public opinion: For dereliction of duty and crimes against humanity. Even though these two charges ultimately did not pan out in the court of law, Shen Yuan nonetheless resigned his post, leaving his position as the director of the Antarctic Doorstep program. He refused all other appointments, later working as an ordinary engineer in the tunnel.”
+
+Just then, the rings of light on the tunnel's walls suddenly changed from blue to red.
+
+
+
+You have reached a depth of 3,900 miles
+
+Your speed is 5 miles / sec
+
+You are passing through the center of the Earth!
+
+
+
+Mr. Deng's voice again rang through Huabei’s headphone. “You have now reached escape velocity, even though you are as far away from space as possible, right at the planet's core. Right now, everything is spinning around you; all of the oceans and continents, every city and every human being. They are all revolving around you.”
+
+Bathed in solemn red, music returned to Huabei's mind. This time it was a grand symphony. Falling down this tunnel, plummeting through the center of the Earth at escape velocity, he felt as if he was floating in the Earth's blood stream, and it made his own blood seethe with excitement.
+
+Mr. Deng continued his lecture. “Even though the new solid state materials are incredible insulators, the temperature around you is now more than twenty-seven-hundred degrees. The cooling system of your suit is running at full power.”
+
+The red lights on the wall continued for another 10 seconds, then they changed back to their serene blue glow.
+
+
+
+You have passed through the center of the Earth
+
+You are now rising and beginning your deceleration
+
+You have reached a height of 310 miles
+
+Your speed is 4.9 miles / sec
+
+You are now in the solid Earth core
+
+
+
+Huabei felt the cool of the blue glow soothe his soul. By now, he had long adapted to weightlessness and he slowly began to turn his body, moving his head to face the new up. As he sought to find the sensation of rising, he asked Mr. Deng, “It would seem that there was a third disaster?”
+
+Mr. Deng was only too happy to answer. “The Lost Bolt Catastrophe occurred five years ago. Back then, the Antarctic Doorstep had been completed and the Earth Tunnel had formally begun regular operation and the Core Train ran it nonstop. The Core Train's cars were twenty-five feet in diameter and a hundred-sixty-five feet long cylinders. On each journey, the Core Train would be made up of a maximum of two hundred of these cars. The train had a maximum capacity of twenty thousand tons of goods or nearly ten thousand passengers. A one-way journey with the train took a mere forty-two minutes and was enabled by pure freefall, consuming no energy.
+
+“When it happened, a maintenance worker at the Mohe launch station carelessly lost a screw bolt – no bigger than four inches in diameter – in the tunnel. The bolts were made of a new solid state material and capable of absorbing electromagnetic waves. This made it invisible to the radar of the tunnel's safety monitoring equipment. It fell straight down the tunnel, passing through the Earth's core right up to the Antarctica station, and then back again. As it returned to the Earth's core, it hit a Core Train just rising toward Antarctica. The relative speed of the bolt and the train was ten miles per second; the impact may just as well have been a bomb blast. It slammed right through the first two train cars, vaporizing everything within. The explosion of these two cars derailed the entire train, sending it crashing into the tunnel wall at five miles per second. In the blink of an eye, it was torn to tiny shreds, leaving a large field of debris falling through the Earth, spreading throughout the entire tunnel. Some of these fragments fell all the way back and forth through the entire planet; most, however, had lost their momentum in the collision and simply swung around the Earth's core. It took an entire month for the tunnel to be cleaned of every last piece. None of the remains of the three thousand train passengers were ever found. Every last one of them had been cremated to nothingness in the heat of the Earth's core.”
+
+
+
+You have reached a height of 1,370 miles above the Earth's core
+
+Your speed is 4.7 miles / sec
+
+You have reentered the liquid Earth core
+
+
+
+“But the greatest disaster was the Antarctic Doorstep itself; the project was an unprecedented feat of human technology and also an act of unparalleled economic folly. Even to this day, we remain baffled how a project of such base economic stupidity could ever make it off the drawing board. Shen Yuan, with his demonic talents, certainly played a role, but the true fault lies with humanity's feverish desire to conquer unclaimed worlds and its blind worship of new technologies.
+
+“Economists say that the Antarctic Doorstep was doomed the very day it was completed. Certainly,” Mr. Deng said, “travel through the Earth was extremely fast and consumed almost no energy. People would even say things like, 'Just throw it in', and 'Just jump in'. Even so, building the tunnel had been an immense investment. This meant the transport charges for the Core Train remained sky-high, offsetting the benefits of its speed and giving the Core Train no real competitive advantage over more conventional forms of transport.”
+
+
+
+You have reached a height of 2,200 miles above the Earth's core
+
+Your speed is 4 miles / sec
+
+You are now passing through the Gutenberg Discontinuity
+
+You are reentering the Earth's mantle
+
+
+
+“Humanity's Antarctic dream quickly came to ruin,” Mr. Deng said. “Swarming industry and excessive exploitation had soon devastated the last remaining pristine environment on Earth. Like the rest of the planet, Antarctica was ravaged, leaving nothing but a smog-smothered dump. The ozone layer above the continent was completely stripped, inevitably changing life on Earth. The ultraviolet radiation became so strong that constant protective measures became a necessity of life for everyone just leaving their house, even in the Northern Hemisphere. What is more, the accelerated melting of the Antarctic ice sheet led to a precipitous rise of global sea levels.
+
+“Those were long and painful years, but in the end reason prevailed and all the member states of the United Nations signed a new Antarctic Treaty, leading to the withdrawal of all human activity from the continent; Antarctica was returned to an icy desert. What remained of the dream was the hope of a slow recovery of Antarctica's environment.
+
+“As the demand for transport to the Antarctic suddenly subsided and in the aftermath of the Lost Bolt Catastrophe, the Core Train service was altogether abandoned and the Earth Tunnel closed down. That was eight years ago. Even after all these years the economic devastation wrought by the Antarctic Doorstep still continues to haunt us. The endless thousands who bought stock in the Antarctic Doorstep Company lost all they had invested, giving rise to widespread social unrest; the investment black hole that this tunnel had become pushed our country to the brink of total economic collapse and even today we still struggle with the after-effects of this catastrophe. Your son's work has become a valley of tears for us.”
+
+For a few seconds Huabei only heard the mournful exhaling of Mr. Deng's breath.
+
+“Well, that is the story of the Antarctic Doorstep.”
+
+As the speed of Huabei’s descent began to decrease, the walls' blue light began first to flash, and then, slowly, he was again able to make out individual rings of blue lights on the wall. Above and below, he could again see the dense concentric rings form and disappear.
+
+
+
+You have reached a height of 3,000 miles above the Earth's core
+
+Your speed is 3.1 miles / sec
+
+You are reentering the rigid region of Earth's mantle
+
+
+
+
+
+CHAPTER
+
+7
+
+
+
+The Death of Shen Yuan
+
+
+
+
+
+“What happened to my son?” Huabei posed his final question.
+
+Again, Mr. Deng readily obliged him. “After the closure, Shen Yuan stayed behind as one of the last workers in the Mohe station. I called him one day and all he told me was, 'My daughter and I are reunited.' Later, I learned that he had lived an almost inconceivable life in the intervening years: Every day he would don a sealed suit and drop down into the Earth Tunnel, swinging back and forth, he even slept in the tunnel. He only returned to the station to eat and refuel his suit's energy tanks. Every day, he completed roughly thirty journeys through the Earth. This went on, day after day, year after year. He swung from Mohe to the Antarctic Peninsula, each full return journey taking eighty-four minutes as he oscillated seven-thousand-eight-hundred-thirty miles.”
+
+
+
+You have reached a height of 3,700 miles above the Earth's core
+
+Your speed is 1.5 miles / sec
+
+You are reentering the viscous region of Earth's mantle
+
+
+
+“Who knows what Shen Yuan did in his endless fall. According to his colleagues, he hailed his daughter with a neutrino communicator every time he passed through the Earth's core,” Mr. Deng said. “As he plummeted, he would have long chats with his daughter; of course he was the only one doing the speaking, but Shen Jing, alive in the Setting Sun VI drifting around the Earth's core in the flow of nickel-iron alloy, was probably able to hear him.
+
+“Over the course of his long falls Shen Yuan's body became accustomed to weightlessness, but he still needed to eat and recharge his suit at the station, exposing him to normal gravity two or three times every day. These constant shifts weakened his already old heart and in the middle of a fall, it finally gave out. No one noticed at the time, leaving his remains to swing through the Earth Tunnel for two days before his battery was completely exhausted. As his cooling system failed, the Earth Tunnel became his crematorium; his body burned to ash in his final plummet through the Earth's core. The way I see it, your son's final resting place is very fitting, indeed.”
+
+
+
+You have reached a height of 3,850 miles above the Earth's core
+
+Your speed is 0.9 miles / sec
+
+You have passed through the Mohorovicic Discontinuity, and entering the Earth's crust
+
+Attention!
+
+You are approaching the Antarctic Terminal
+
+
+
+“Am I right in thinking that this will be my final resting place as well?” Huabei quietly asked.
+
+“It should please you,” Mr. Deng noted flatly. “Before you die, you saw what you wanted to see. We had considered throwing you into the tunnel without a suit, but we decided otherwise, and so you had the chance to see all your son had wrought.”
+
+“Yes, I am pleased. This life has been enough. I sincerely thank you all!” Huabei answered, utterly at peace.
+
+There was no answer, even the hum of the headphone suddenly disappeared. His avengers on the other side of the world had ended all communication.
+
+Huabei could see the concentric circles again become ever sparser. Now it took him two or three seconds to fall through every circle and with every passing moment this interval grew longer and longer. Then he heard a sharp beep in his headphone and his visor display read:
+
+
+
+You have reached the Antarctic Terminal of the Earth Tunnel!
+
+
+
+The center of the last circle above was now empty and no new circles emerged. The final circle grew larger and larger. He passed through this last ring of blue lights. Falling ever more slowly, he approached a bridge, just like the one he had fallen off at the other terminal. Several suited people stood on this small bridge. As he reached the mouth of the well, they reached out and grabbed him, pulling him onto the bridge.
+
+The Antarctic Terminal, too, was unlit, illuminated only by the blue light shining from the endless tunnel below. Looking up he saw a cylinder hanging above him. The cylinder was large by any standard, but its diameter seemed slightly smaller than the tunnels mouth. Walking over to the end of the bridge, Huabei again looked up. In the dusk above he could see an entire row of these cylinders suspended above the tunnel. He could count four, but more lay hidden, deeper in the darkness.
+
+This, he knew, had to be the decommissioned Core Train.
+
+
+
+
+
+CHAPTER
+
+8
+
+
+
+Antarctica
+
+
+
+
+
+Half an hour later, Huabei left the Antarctic Terminal together with the police officers that had rescued him. The Terminal stood on a barren, snow-less stretch of Antarctic plain. A long-abandoned city loomed in the distance. The Sun hung low on the horizon, casting its weak light feebly across this vast and lifeless land. The air was cleaner here than on the other side of the Earth and he could breathe it without respirator.
+
+A police officer told Huabei that a few of their force remained in Antarctica. They had received an emergency call from Dr. Guo and immediately rushed to the Antarctic Terminal. At the time the tunnel's mouth had been closed and they had had to put an emergency call of their own through to the Earth Tunnel management to open the wellhead. It had opened just in time for Huabei to rise out of the blue of the Earth Tunnel, like a strange creature floating from the depths of the ocean; a few seconds later and he would have certainly perished. The closed tunnel would have left him falling back down, straight through the Earth. His suit's battery did not hold enough of a charge to make it through the core again and he would have joined his son in that crematorium at the center of the Earth.
+
+“Deng Yang's gang has already been arrested. They will face murder charges, but,” the police officer said, coldly staring at Huabei, “I understand what drove them.”
+
+Still struggling with the vertigo induced by his prolonged weightlessness, Huabei looked toward the Sun. He heaved a heavy sigh and repeated, “This life has been enough.”
+
+“If that is how you feel, you will find it that much easier to accept your fate,” another officer noted.
+
+“My fate?” Huabei turned to the officer as he felt his mind jolt back to reality.
+
+“You cannot live in this age or this sort of thing will happen over and over again. Fortunately for you, the government is running a temporal emigration plan; a quota of people who must enter cryo-sleep has been introduced to ease the burden the population places on the environment. These emigrants will be woken and live in the future. The government has decided to make you a temporal emigrant. You will re-enter cryo-sleep; I cannot tell you how long it will be before you will be awoken again.”
+
+It took a few long moments before Huabei could make heads and tails of what he had just heard. When he finally comprehended what the officer had said, he bowed deeply. “Thank you, thank you! How is it that I am always so lucky?”
+
+“So lucky?” It was now the police officer's turn to not understand. “Even this age's temporal emigrants will find it almost impossible to adapt to life in a future society, and that is to say nothing of people of past eras, like you!”
+
+A faint smile slowly blossomed on Huabei's face. “I do not care; I will be able to see the Earth Tunnel again be the pride of humanity!”
+
+The police officer chortled in surprise. “However do you expect that to happen? This project has been a complete loss; it will forever be a pillar of shame for father and son.”
+
+“Ha, ha, ha, ha...” Huabei laughed out loud, swaying on his weightlessness-weakened legs. His spirit, however, burned strong with excitement. “The Great Wall and the Great Pyramids of Giza were a complete loss as well; the former failed to prevent the invasions of the rider people from the North and the latter never did resurrect the mummified pharaoh within. In the long run, that turned out to be utterly immaterial. Now all we see them as are eternal monuments to the human spirit!” He pointed to the Earth Tunnel's terminal towering in the distance. “And compared to this mighty Great Wall of the Earth's Core, you are pitiful wretches, wailing and railing against the inevitable! Ha, ha, ha, ha, ha...” He continued to happily chuckle.
+
+Throwing his arms open, he embraced the cold Antarctic wind rushing over his body. “Yuan, my son, this life is enough,” he said, fully content and happy.
+
+
+
+
+
+
